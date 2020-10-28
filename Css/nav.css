@@ -1,0 +1,392 @@
+.navbar {
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
+    border-radius: 50%;
+    background-color: #00BFFF;
+    margin: 290px auto;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+    font-size: 2.75em;
+    font-weight: bold;
+    transition: 0.24s 0.2s;
+    border: 2px solid black;
+    animation: pulse 1.5s infinite running;
+    animation-delay: 1.5s;
+    z-index: 5;
+}
+
+@keyframes pulse{
+    0%{
+        box-shadow: 0 0 0 0px rgba(255, 255, 255, 0.2);
+        transform: scale(1);
+    }
+    10%{
+        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
+        transform: scale(1);
+    }
+    20%{
+        box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2);
+        transform: scale(1);
+    }
+    30%{
+        box-shadow: 0 0 0 30px rgba(255, 255, 255, 0.1);
+        transform: scale(1);
+    }
+    40%{
+        box-shadow: 0 0 0 40px rgba(255, 255, 255, 0.1);
+        transform: scale(1);
+    }
+    50%{
+        box-shadow: 0 0 0 50px rgba(255, 255, 255, 0.1);
+        transform: scale(1);
+    }
+    60%{
+        box-shadow: 0 0 0 60px rgba(255, 255, 255, 0.1);
+        transform: scale(1);
+    }
+    65%{
+        box-shadow: 0 0 0 65px rgba(255, 255, 255, 0.1);
+        transform: scale(1);
+    }
+    100%{
+        box-shadow: 0 0 0 70px rgba(255, 255, 255, 0);
+        transform: scale(1);
+    }
+}
+
+.navbar img{
+    top: -50px;
+    left: -50px;
+    z-index: 2;
+}
+
+.navbar  .iconsM {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: -125px;
+    left: -125px;
+    border: 250px solid transparent;
+    cursor: default;
+    border-radius: 50%;
+    transform: scale(0);
+    transition: transform 1.4s 0.07s;
+    z-index: -1;
+}
+
+.navbar:hover {
+    animation: none;
+}
+
+.navbar:hover .iconsM{
+    transition: transform 0.4s 0.08s, z-index 0s 0.5s;
+    transform: scale(1);
+    z-index: 1;
+}
+
+.navbar .iconsM li {
+    position: absolute;
+    top: -100px;
+    left: -100px;
+    transform-origin: 100px 100px;
+    transition: all 0.5s 0.1s;
+}
+
+.navbar:hover .iconsM li{
+    transition: all 0.4s;
+}
+
+.navbar .iconsM li img{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    font-size: 59%;
+    transition: 0.7s;
+    border: 1.5px solid black;
+    box-shadow: 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/*Inicio do item casa de acolhimento*/
+.navbar:hover .iconsM li:nth-child(1){
+    transition-delay: 0.02s;
+    transform: rotate(85deg);
+}
+
+.navbar:hover .iconsM li:nth-child(1) img{
+    transition-delay: 0.02s;
+    transform: rotate(635deg);
+    background-color: #dc5c4f;
+}
+
+.descricaoA {
+    display: none;
+}
+
+.item:hover .descricaoA{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #dc5c4f;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(635deg);
+    position: absolute;
+    right: -250px;
+    top: -650px;
+}
+/*Fim do item casa de acolhimento*/
+
+/*Inicio do item apoio juridico*/
+.navbar:hover .iconsM li:nth-child(2){
+    transition-delay: 0.02s;
+    transform: rotate(125deg);
+}
+
+.navbar:hover .iconsM li:nth-child(2) img{
+    transition-delay: 0.02s;
+    transform: rotate(595deg);
+    background-color: #ed8f1b;
+}
+
+.descricaoJ {
+    display: none;
+}
+
+.item:hover .descricaoJ{
+    display: block;
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    background-color: #ed8f1b;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(595deg);
+    right: -50px;
+    top: -550px;
+}
+/*Fim do item apoio juridico*/
+
+/*Inicio do item documento social*/
+.navbar:hover .iconsM li:nth-child(3){
+    transition-delay: 0.02s;
+    transform: rotate(165deg);
+}
+
+.navbar:hover .iconsM li:nth-child(3) img{
+    transition-delay: 0.02s;
+    transform: rotate(555deg);
+    background-color: #dec571;
+}
+
+.descricaoD {
+    display: none;
+}
+
+.item:hover .descricaoD{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #dec571;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(555deg);
+    position: absolute;
+    right: 150px;
+    top: -250px;
+}
+/*Fim do item documento social*/
+
+/*Inicio do item*/
+.navbar:hover .iconsM li:nth-child(4){
+    transition-delay: 0.02s;
+    transform: rotate(205deg);
+}
+
+.navbar:hover .iconsM li:nth-child(4) img{
+    transition-delay: 0.02s;
+    transform: rotate(515deg);
+    background-color: #5dc785;
+}
+
+.descricaoE {
+    display: none;
+}
+
+.item:hover .descricaoE{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #5dc785;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(515deg);
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+/*Fim do item*/
+
+/*Inicio do item*/
+.navbar:hover .iconsM li:nth-child(5){
+    transition-delay: 0.02s;
+    transform: rotate(245deg);
+}
+
+.navbar:hover .iconsM li:nth-child(5) img{
+    transition-delay: 0.02s;
+    transform: rotate(475deg);
+    background-color: #76d0f5;
+}
+
+.descricaoF {
+    display: none;
+}
+
+.item:hover .descricaoF{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #76d0f5;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(475deg);
+    position: absolute;
+    right: -550px;
+    top: -600px;
+}
+/*fim do item*/
+
+/*Inicio do item*/
+.navbar:hover .iconsM li:nth-child(6){
+    transition-delay: 0.02s;
+    transform: rotate(285deg);
+}
+
+.navbar:hover .iconsM li:nth-child(6) img{
+    transition-delay: 0.02s;
+    transform: rotate(435deg);
+    background-color: #b299dd;
+}
+
+.descricaoG {
+    display: none;
+}
+
+.item:hover .descricaoG{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #b299dd;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(435deg);
+    position: absolute;
+    right: -250px;
+    top: -650px;
+}
+/*Inicio do item*/
+
+/*Inicio do item*/
+.navbar:hover .iconsM li:nth-child(7){
+    transition-delay: 0.02s;
+    transform: rotate(325deg);
+}
+
+.navbar:hover .iconsM li:nth-child(7) img{
+    transition-delay: 0.02s;
+    transform: rotate(395deg);
+    background-color: #a35f22;
+}
+
+.descricaoH {
+    display: none;
+}
+
+.item:hover .descricaoH{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #a35f22;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(395deg);
+    position: absolute;
+    right: 50px;
+    top: -550px;
+}
+/*Inicio do item*/
+
+/*Inicio do item*/
+.navbar:hover .iconsM li:nth-child(8){
+    transition-delay: 0.02s;
+    transform: rotate(365deg);
+}
+
+.navbar:hover .iconsM li:nth-child(8) img{
+    transition-delay: 0.02s;
+    transform: rotate(355deg);
+    background-color: #ffffff;
+}
+
+.descricaoI {
+    display: none;
+}
+
+.item:hover .descricaoI{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #ffffff;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(355deg);
+    position: absolute;
+    right: 150px;
+    top: -250px;
+}
+/*Inicio do item*/
+
+/*Inicio do item*/
+.navbar:hover .iconsM li:nth-child(9){
+    transition-delay: 0.02s;
+    transform: rotate(405deg);
+}
+
+.navbar:hover .iconsM li:nth-child(9) img{
+    transition-delay: 0.02s;
+    transform: rotate(315deg);
+    background-color: #ffb0c6;
+}
+
+.descricaoK {
+    display: none;
+}
+
+.item:hover .descricaoK{
+    display: block;
+    width: 400px;
+    height: 600px;
+    background-color: #ffb0c6;
+    opacity: 0.85;
+    border-radius: 15px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    transform: rotate(315deg);
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+/*Inicio do item*/
