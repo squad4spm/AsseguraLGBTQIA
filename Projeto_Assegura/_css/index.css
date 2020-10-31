@@ -1,113 +1,254 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: white;
+  background: #f2f2f2;
 }
 
+/*background color do header*/
 nav{
-    background-color: yellowgreen;
+  background: yellowgreen;
 }
-nav::after{
-    content: '';
-    clear: both;
-    display: table;
+/*final do background color do header*/
+
+
+nav:after{
+  content: '';
+  clear: both;
+  display: table;
 }
+/*logo Assegura*/
 nav .logo{
-    float: left;
-    color: white;
-    font-size: 27px;
-    font-weight: 600;
-    line-height: 70px;
-    padding-left: 60px;
-    
+  float: left;
+  color: white;
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 70px;
+  padding-left: 60px;
 }
+/*final edição logo*/
+
+/*edição da lista não ordenada*/
 nav ul{
-    float: right;
-    list-style: none;
-    margin-right: 40px;
-    position: relative;
-
+  float: right;
+  margin-right: 40px;
+  list-style: none;
+  position: relative;
 }
+/*final da edição da ul*/
+
+/*edição do submenu*/
 nav ul li{
-    float: left;
-    display: inline-block;
-    background-color: yellowgreen;
-    margin: 0 5px;
+  float: left;
+  display: inline-block;
+  background: yellowgreen;
+  margin: 0 5px;
 }
-nav ul li a{
-    color: white;
-    text-decoration: none;
-    line-height: 70px;
-    font-size: 18px;
-    padding:  8px 25px;
-}
-nav ul li a:hover{
-    color: yellow;
-    border-radius: 8px;
-    box-shadow: 0 0 5px yellow,
-                0 0 5px greenyellow;
-}
-nav ul ul li a:hover{
-    color: cyan;
-    box-shadow: none ;
-}
-nav ul ul{
-    position: absolute;
-    top: 90px;
-    border-top:  3px solid cyan;
-    opacity: 0;
-    visibility: hidden;
-    transition: top .3s;
+/*final edição submenu*/
 
+/*edição dos itens da minha li*/
+nav ul li a{
+  color: white;
+  line-height: 70px;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 8px 15px;
 }
-nav ul ul ul{
-    border-top: none;
+/*final da edição dos itens da li*/
+
+/*efeito do menu ao passar o mouse em cima*/
+nav ul li a:hover{
+  color:yellow;
+  border-radius: 5px;
+  box-shadow:  0 0 5px yellow,
+               0 0 10px red;
 }
+/*final do efeito ao passar o mouse*/
+
+/*remover o box-shadow do submenu*/
+nav ul ul li a:hover{
+  box-shadow: none;
+}
+/*fim*/
+
+
+nav ul ul{
+  position: absolute;
+  top: 90px;
+  border-top: 3px solid yellowgreen;
+  opacity: 0;
+  visibility: hidden;/*escode o submenu*/
+  transition: top .4s;/*transação de tempo*/
+}
+
 nav ul li:hover > ul{
+  top: 70px;
+  opacity: 1; /*mostra o submenu ao passar o mouse em cima*/
+  visibility: visible;/*mosta o submenu ao passar o mouse em cima*/
+}
+/*edição do submenu*/
+nav ul ul li{
+  position: relative;
+  margin: 0px;
+  width: 204px;/*largura do submenu*/
+  float: none;
+  display: list-item;
+  border-bottom: 1px solid white;/*borda do submenu*/
+}
+/*final da edição do submenu*/
+
+nav ul ul li a{
+    line-height: 50px; /*ajusta o submenu*/
+}
+
+
+
+.show,.icon,input{
+    display: none; /*esconde a caixa de marcação*/
+  }
+
+/*deixa o menu fora do icon*/
+ @media all and (max-width: 968px) {
+    nav ul{
+      margin-right: 0px;
+      float: left;
+    }
+/*fim*/
+
+/*habilita o click para esconder os itens do menu ao diminuir tamanho da tela*/
+.show + a, ul{
+    display: none;
+  }
+/*fim*/
+
+/*ajusta os itens dos menus em bloco ao diminuir tamanho da tela*/
+  nav ul li,nav ul ul li{
+    display: block;
+    width: 100%;
+  }
+  /*fim*/
+
+  /*retira o efeito ao passar o mouse em cima do submenu (home,localizações e como ajusar) ao recuar tela*/
+  nav ul li a:hover{
+    box-shadow: none;
+  }
+/*fim*/
+
+/* exibe todos os itens em formato de bloco ao recuar tela*/
+.show{
+    display: block;
+    color: white;
+    font-size: 18px;
+    padding: 0 20px;
+    line-height: 70px;
+    cursor: pointer;
+  }
+  /*fim*/
+
+/*cor dos menus que tem submenu ao passar o mouse com tela recuada*/  
+  .show:hover{
+    color: yellow;
+  }
+  /*fim*/
+
+  /*ícone*/
+  .icon{
+    display: block;
+    color: white;/*cor do incone*/
+    position: absolute;
+    top: 0;
+    right: 40px;
+    line-height: 70px;
+    cursor: pointer;
+    font-size: 25px;
+  }
+  /*fim*/
+
+/*edição do segundo submenu*/
+  nav ul ul{
     top: 70px;
+    border-top: 0px;
+    float: none;
+    position: static;
+    display: none;
     opacity: 1;
     visibility: visible;
-}
-nav ul ul li{
-    position: relative;
-    margin: 0px;
-    width: 180px;
-    float: none;
-    display: list-item;
-    border-bottom:  1px solid rgba(0,0,0,0.3);
+  }
+  /*fim*/
 
-}
-nav ul ul li a{
-    line-height: 50px;
-}
-nav ul ul ul li{
-    position: relative;
-    top: -70px;
-    left: 150px;
+/*padding submenu recuado*/
+  nav ul ul a{
+    padding-left: 40px;
+  }
+  /*fim*/
+  
+  /*display do menu ao clicar nas 3 barras laterais*/
+  [id^=btn]:checked + ul{
+    display: block;
+  }
+  /*fim*/
+
+  
+  nav ul ul li{
+    border-bottom: 0px;
+  }
+  span.cancel:before{
+    content: '\f00d';
+  }
 }
 
-/* primeira class*/
+
+/*conteudo da pagina*/
+.content{
+  z-index: -1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+/*header*/
+header{
+    font-size: 35px;
+    font-weight: 600;
+    padding: 10px 0;
+  }
+p{
+  font-size: 30px;
+  font-weight: 500;
+}
 
 
-.primeira-class{
+
+/*as edições a partir daqui so estão sendo aplicadas na index*/
+
+/* Edição div com texto e imagem*/
+
+
+.primeiraClass{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
     
+    
 }
 .col-2{
     flex-basis: 50%;
     min-width: 500px;
+    
 
 }
 .col-2 img{
     max-width: 100%;
-    padding: 50px 0;     
+    padding: 50px 0; 
+       
 }
 .col-2 h1{
     font-size: 50px;
@@ -118,11 +259,9 @@ nav ul ul ul li{
 .col-2 p{
     margin: 25px;
 }
+/*final da edição da div com texto e imagem*/
 
-.header {
-   /* background: radial-gradient(#fff,#ffd6d6)*/
-   /* background: radial-gradient(#fff,#ffd6d6);*/
-}
+/*edição das tres imagens ao final da pagina*/
 .divicao{
     margin: 70px 0;
 }
@@ -142,62 +281,7 @@ nav ul ul ul li{
     padding: 20px;
 }
 
+/*final da edição das tres imagens*/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*{
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    list-style: none;
-    box-sizing: border-box;
-}
-nav{
-    background: yellowgreen;
-    height: 80px;
-    width: 100%;
-}
-nav ul{
-    float: right;
-    margin-right: 10px;
-    position: absolute;
-    display: flex;
-}
-nav ul li{
-    display: inline-block;
-    line-height: 80px;
-    margin: 0 5px;
-}
-nav ul li a{
-    color:  black;
-    font-size: 18px;
-    padding:  8px 14px;
-    border-radius: 5px ;
-    text-transform: uppercase;
-   float: right;
-   text-align: right;
-}
-
-a.menu, a:hover {
-    background-color: yellow ;
-    transition:  .5s;
-}
-ul li ul li {
-    display: none;
-}*/
 
