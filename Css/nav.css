@@ -115,12 +115,12 @@
 /*Inicio do item casa de acolhimento*/
 .navbar:hover .iconsM li:nth-child(1){
     transition-delay: 0.02s;
-    transform: rotate(85deg);
+    transform: rotate(96.4deg);
 }
 
 .navbar:hover .iconsM li:nth-child(1) img{
     transition-delay: 0.02s;
-    transform: rotate(635deg);
+    transform: rotate(623.6deg);
     background-color: #dc5c4f;
 }
 
@@ -146,12 +146,12 @@
 /*Inicio do item apoio juridico*/
 .navbar:hover .iconsM li:nth-child(2){
     transition-delay: 0.02s;
-    transform: rotate(125deg);
+    transform: rotate(147.8deg);
 }
 
 .navbar:hover .iconsM li:nth-child(2) img{
     transition-delay: 0.02s;
-    transform: rotate(595deg);
+    transform: rotate(572.2deg);
     background-color: #ed8f1b;
 }
 
@@ -177,12 +177,12 @@
 /*Inicio do item documento social*/
 .navbar:hover .iconsM li:nth-child(3){
     transition-delay: 0.02s;
-    transform: rotate(165deg);
+    transform: rotate(199.2deg);
 }
 
 .navbar:hover .iconsM li:nth-child(3) img{
     transition-delay: 0.02s;
-    transform: rotate(555deg);
+    transform: rotate(520.8deg);
     background-color: #dec571;
 }
 
@@ -208,12 +208,12 @@
 /*Inicio do item*/
 .navbar:hover .iconsM li:nth-child(4){
     transition-delay: 0.02s;
-    transform: rotate(205deg);
+    transform: rotate(250.6deg);
 }
 
 .navbar:hover .iconsM li:nth-child(4) img{
     transition-delay: 0.02s;
-    transform: rotate(515deg);
+    transform: rotate(469.4deg);
     background-color: #5dc785;
 }
 
@@ -239,12 +239,12 @@
 /*Inicio do item*/
 .navbar:hover .iconsM li:nth-child(5){
     transition-delay: 0.02s;
-    transform: rotate(245deg);
+    transform: rotate(302deg);
 }
 
 .navbar:hover .iconsM li:nth-child(5) img{
     transition-delay: 0.02s;
-    transform: rotate(475deg);
+    transform: rotate(418deg);
     background-color: #76d0f5;
 }
 
@@ -270,12 +270,12 @@
 /*Inicio do item*/
 .navbar:hover .iconsM li:nth-child(6){
     transition-delay: 0.02s;
-    transform: rotate(285deg);
+    transform: rotate(353.4deg);
 }
 
 .navbar:hover .iconsM li:nth-child(6) img{
     transition-delay: 0.02s;
-    transform: rotate(435deg);
+    transform: rotate(366.6deg);
     background-color: #b299dd;
 }
 
@@ -301,12 +301,12 @@
 /*Inicio do item*/
 .navbar:hover .iconsM li:nth-child(7){
     transition-delay: 0.02s;
-    transform: rotate(325deg);
+    transform: rotate(404.8deg);
 }
 
 .navbar:hover .iconsM li:nth-child(7) img{
     transition-delay: 0.02s;
-    transform: rotate(395deg);
+    transform: rotate(315.2deg);
     background-color: #a35f22;
 }
 
@@ -326,67 +326,5 @@
     position: absolute;
     right: 50px;
     top: -550px;
-}
-/*Inicio do item*/
-
-/*Inicio do item*/
-.navbar:hover .iconsM li:nth-child(8){
-    transition-delay: 0.02s;
-    transform: rotate(365deg);
-}
-
-.navbar:hover .iconsM li:nth-child(8) img{
-    transition-delay: 0.02s;
-    transform: rotate(355deg);
-    background-color: #ffffff;
-}
-
-.descricaoI {
-    display: none;
-}
-
-.item:hover .descricaoI{
-    display: block;
-    width: 400px;
-    height: 600px;
-    background-color: #ffffff;
-    opacity: 0.85;
-    border-radius: 15px;
-    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
-    transform: rotate(355deg);
-    position: absolute;
-    right: 150px;
-    top: -250px;
-}
-/*Inicio do item*/
-
-/*Inicio do item*/
-.navbar:hover .iconsM li:nth-child(9){
-    transition-delay: 0.02s;
-    transform: rotate(405deg);
-}
-
-.navbar:hover .iconsM li:nth-child(9) img{
-    transition-delay: 0.02s;
-    transform: rotate(315deg);
-    background-color: #ffb0c6;
-}
-
-.descricaoK {
-    display: none;
-}
-
-.item:hover .descricaoK{
-    display: block;
-    width: 400px;
-    height: 600px;
-    background-color: #ffb0c6;
-    opacity: 0.85;
-    border-radius: 15px;
-    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
-    transform: rotate(315deg);
-    position: absolute;
-    right: 50px;
-    top: 50px;
 }
 /*Inicio do item*/
