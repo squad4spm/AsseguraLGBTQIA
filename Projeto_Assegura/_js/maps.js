@@ -1,5 +1,5 @@
 function inicializar() {
-    var coordenadas = {lat: -22.912869, lng: -43.228963};
+    var coordenadas = {lat: -23.5677666, lng: -46.6487763};
 
     var mapa = new google.maps.Map(document.getElementById('mapa'), {
       zoom: 15,
