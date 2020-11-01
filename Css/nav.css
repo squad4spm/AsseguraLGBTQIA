@@ -17,6 +17,7 @@
     z-index: 5;
 }
 
+/*Inicio da animação pulsante do botão principal*/
 @keyframes pulse{
     0%{
         box-shadow: 0 0 0 0px rgba(255, 255, 255, 0.2);
@@ -55,6 +56,7 @@
         transform: scale(1);
     }
 }
+/*Fim da animação pulsante do botão principal*/
 
 .navbar img{
     top: -50px;
@@ -112,7 +114,7 @@
     box-shadow: 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-/*Inicio do item casa de acolhimento*/
+/*Inicio do item defesa pessoal*/
 .navbar:hover .iconsM li:nth-child(1){
     transition-delay: 0.02s;
     transform: rotate(96.4deg);
@@ -141,9 +143,9 @@
     right: -250px;
     top: -650px;
 }
-/*Fim do item casa de acolhimento*/
+/*Fim do item defesa pessoal*/
 
-/*Inicio do item apoio juridico*/
+/*Inicio do item nome social*/
 .navbar:hover .iconsM li:nth-child(2){
     transition-delay: 0.02s;
     transform: rotate(147.8deg);
@@ -172,9 +174,9 @@
     right: -50px;
     top: -550px;
 }
-/*Fim do item apoio juridico*/
+/*Fim do item nome social*/
 
-/*Inicio do item documento social*/
+/*Inicio do item localizações*/
 .navbar:hover .iconsM li:nth-child(3){
     transition-delay: 0.02s;
     transform: rotate(199.2deg);
@@ -203,9 +205,9 @@
     right: 150px;
     top: -250px;
 }
-/*Fim do item documento social*/
+/*Fim do item localizaçõoes*/
 
-/*Inicio do item*/
+/*Inicio do item quer ajudar*/
 .navbar:hover .iconsM li:nth-child(4){
     transition-delay: 0.02s;
     transform: rotate(250.6deg);
@@ -234,9 +236,9 @@
     right: 100px;
     top: 50px;
 }
-/*Fim do item*/
+/*Fim do item quer ajudar*/
 
-/*Inicio do item*/
+/*Inicio do item casas de acolhimento*/
 .navbar:hover .iconsM li:nth-child(5){
     transition-delay: 0.02s;
     transform: rotate(302deg);
@@ -265,9 +267,9 @@
     right: -550px;
     top: -600px;
 }
-/*fim do item*/
+/*fim do item casas de acolhimento*/
 
-/*Inicio do item*/
+/*Inicio do item juridico*/
 .navbar:hover .iconsM li:nth-child(6){
     transition-delay: 0.02s;
     transform: rotate(353.4deg);
@@ -296,9 +298,9 @@
     right: -250px;
     top: -650px;
 }
-/*Inicio do item*/
+/*Inicio do item juridico*/
 
-/*Inicio do item*/
+/*Inicio do item psicológico*/
 .navbar:hover .iconsM li:nth-child(7){
     transition-delay: 0.02s;
     transform: rotate(404.8deg);
@@ -327,4 +329,4 @@
     right: 50px;
     top: -550px;
 }
-/*Inicio do item*/
+/*Inicio do item psicológico*/
