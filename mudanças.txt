@@ -1,0 +1,5 @@
+kaique 01/11/2020  Att 01.11.01
+- Alterei o background do menu das páginas defesa pessoal, localização e nome social através do arquivo index.css
+- implementei as páginas defesa pessoal, localização e nome social.
+- linkei as páginas defesa pessoal, localização, nome social e a página index.
+- coloquei o z-index no sub menu
