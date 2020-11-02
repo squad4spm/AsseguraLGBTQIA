@@ -9,9 +9,8 @@
 body{
   background: #f2f2f2;
 }
-
-/*background color do header*/
-nav{
+/*background color do header home*/
+.navNomeHome{
   background: #00BFFF;
 }
 /*final do background color do header*/
@@ -64,16 +63,28 @@ nav ul{
 nav ul li {
   float: left;
   display: inline-block;
-  background: #00BFFF;
+  background: #00BFFF;/*submenu home*/
   margin: 0 5px;
 }
 /*final edição submenu*/
 
 /*edição cor do submenu nome social*/
-.liNomeSocial {
+.liNomeSocial li {
   background: #ed8f1b;
 }
 /*final edição cor do submenu nome social*/
+
+/*edição cor do submenu localização*/
+.liLocalizacao li{
+  background: #dec571;
+}
+/*final edição cor do submenu localização*/
+
+/*edição cor do submenu Defesa Pessoal*/
+.liDefesaPessoal li{
+  background: #5dc785;
+}
+/*final edição cor do submenu Defesa Pessoal*/
 
 /*edição dos itens da minha li*/
 nav ul li a{
@@ -114,7 +125,8 @@ nav ul li:hover > ul{
   top: 70px;
   opacity: 1; /*mostra o submenu ao passar o mouse em cima*/
   visibility: visible;/*mosta o submenu ao passar o mouse em cima*/
-  z-index: 2;
+  z-index: 5;
+  
 }
 /*edição do submenu*/
 nav ul ul li{
@@ -261,19 +273,14 @@ p{
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
-    
-    
 }
 .col-2{
     flex-basis: 50%;
     min-width: 500px;
-    
-
 }
 .col-2 img{
     max-width: 100%;
-    padding: 50px 0; 
-       
+    padding: 50px 0;        
 }
 .col-2 h1{
     font-size: 50px;

@@ -3,3 +3,12 @@ kaique 01/11/2020  Att 01.11.01
 - implementei as páginas defesa pessoal, localização e nome social.
 - linkei as páginas defesa pessoal, localização, nome social e a página index.
 - coloquei o z-index no sub menu
+
+
+
+/-----------------------/
+
+Emerson 01/11/2020 
+- Ajustei as cores dos íncones Home, Atendimento, Localições, Sobre e Como ajudar junto cos as do submenu;
+- Ajustei o bud do nosso navbar;
+- Não consegi implentar a barra de uma maneira funcional (deixei o codigo salvo) ;
