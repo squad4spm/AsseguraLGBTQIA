@@ -3,7 +3,7 @@
     height: 250px;
     line-height: 250px;
     border-radius: 50%;
-    background-color: #00BFFF;
+    background-color: #FFFAFA;
     margin: 290px auto;
     position: relative;
     cursor: pointer;
@@ -11,7 +11,7 @@
     font-size: 2.75em;
     font-weight: bold;
     transition: 0.24s 0.2s;
-    border: 2px solid black;
+    border: 2px solid #FFFAFA;
     animation: pulse 1.5s infinite running;
     animation-delay: 1.5s;
     z-index: 5;
@@ -110,7 +110,6 @@
     position: absolute;
     font-size: 59%;
     transition: 0.7s;
-    border: 1.5px solid black;
     box-shadow: 2px 4px rgba(0, 0, 0, 0.2);
 }
 
@@ -123,7 +122,8 @@
 .navbar:hover .iconsM li:nth-child(1) img{
     transition-delay: 0.02s;
     transform: rotate(623.6deg);
-    background-color: #5dc785;
+    background-color: #FFFAFA;
+    border: 5px solid #9400D3;
 }
 
 .descricaoA {
@@ -134,14 +134,15 @@
     display: block;
     width: 400px;
     height: 600px;
-    background-color: #5dc785;
+    background-color: #FFFAFA;
+    border: 8px solid #9400D3;
     opacity: 0.85;
     border-radius: 15px;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
     transform: rotate(623.6deg);
-    position: absolute;
-    right: -250px;
-    top: -650px;
+    position: fixed;
+    right: -205px;
+    bottom: 40px;
 }
 /*Fim do item defesa pessoal*/
 
@@ -154,7 +155,8 @@
 .navbar:hover .iconsM li:nth-child(2) img{
     transition-delay: 0.02s;
     transform: rotate(572.2deg);
-    background-color: #ed8f1b;
+    background-color: #FFFAFA;
+    border: 5px solid #A0522D;
 }
 
 .descricaoJ {
@@ -163,16 +165,18 @@
 
 .item:hover .descricaoJ{
     display: block;
-    position: absolute;
+    
     width: 400px;
     height: 600px;
-    background-color: #ed8f1b;
+    background-color: #FFFAFA;
+    border: 8px solid #A0522D;
     opacity: 0.85;
     border-radius: 15px;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
     transform: rotate(572.2deg);
-    right: -50px;
-    top: -550px;
+    position: fixed;
+    right: 100px;
+    bottom: -200px;
 }
 /*Fim do item nome social*/
 
@@ -185,7 +189,8 @@
 .navbar:hover .iconsM li:nth-child(3) img{
     transition-delay: 0.02s;
     transform: rotate(520.8deg);
-    background-color: #dec571;
+    background-color: #FFFAFA;
+    border: 5px solid #00FFFF;
 }
 
 .descricaoD {
@@ -196,14 +201,15 @@
     display: block;
     width: 400px;
     height: 600px;
-    background-color: #dec571;
+    background-color: #FFFAFA;
+    border: 8px solid #00FFFF;
     opacity: 0.85;
     border-radius: 15px;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
     transform: rotate(520.8deg);
-    position: absolute;
-    right: 150px;
-    top: -250px;
+    position: fixed;
+    right: 105px;
+    bottom: -590px;
 }
 /*Fim do item localizaçõoes*/
 
@@ -216,7 +222,8 @@
 .navbar:hover .iconsM li:nth-child(4) img{
     transition-delay: 0.02s;
     transform: rotate(469.4deg);
-    background-color: #dc5c4f;
+    background-color: #FFFAFA;
+    border: 5px solid #7CFC00;
 }
 
 .descricaoE {
@@ -227,14 +234,15 @@
     display: block;
     width: 400px;
     height: 600px;
-    background-color: #dc5c4f;
+    background-color: #FFFAFA;
+    border: 8px solid #7CFC00;
     opacity: 0.85;
     border-radius: 15px;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
     transform: rotate(469.4deg);
-    position: absolute;
-    right: 100px;
-    top: 50px;
+    position: fixed;
+    left: 90px;
+    bottom: 35px;
 }
 /*Fim do item quer ajudar*/
 
@@ -247,7 +255,8 @@
 .navbar:hover .iconsM li:nth-child(5) img{
     transition-delay: 0.02s;
     transform: rotate(418deg);
-    background-color: #76d0f5;
+    background-color: #FFFAFA;
+    border: 5px solid #0000FF;
 }
 
 .descricaoF {
@@ -258,14 +267,15 @@
     display: block;
     width: 400px;
     height: 600px;
-    background-color: #76d0f5;
+    background-color: #FFFAFA;
+    border: 8px solid #0000FF;
     opacity: 0.85;
     border-radius: 15px;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
     transform: rotate(418deg);
-    position: absolute;
-    right: -550px;
-    top: -600px;
+    position: fixed;
+    left: -315px;
+    bottom: 20px;
 }
 /*fim do item casas de acolhimento*/
 
@@ -278,7 +288,8 @@
 .navbar:hover .iconsM li:nth-child(6) img{
     transition-delay: 0.02s;
     transform: rotate(366.6deg);
-    background-color: #b299dd;
+    background-color: #FFFAFA;
+    border: 5px solid #FF0000;
 }
 
 .descricaoG {
@@ -289,14 +300,15 @@
     display: block;
     width: 400px;
     height: 600px;
-    background-color: #b299dd;
+    background-color: #FFFAFA;
+    border: 8px solid #FF0000;
     opacity: 0.85;
     border-radius: 15px;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
     transform: rotate(366.6deg);
-    position: absolute;
-    right: -250px;
-    top: -650px;
+    position: fixed;
+    left: -580px;
+    bottom: -310px;
 }
 /*Inicio do item juridico*/
 
@@ -309,7 +321,8 @@
 .navbar:hover .iconsM li:nth-child(7) img{
     transition-delay: 0.02s;
     transform: rotate(315.2deg);
-    background-color: #a35f22;
+    background-color: #FFFAFA;
+    border: 5px solid #FFFF00;
 }
 
 .descricaoH {
@@ -320,13 +333,14 @@
     display: block;
     width: 400px;
     height: 600px;
-    background-color: #a35f22;
+    background-color: #FFFAFA;
+    border: 8px solid #FFFF00;
     opacity: 0.85;
     border-radius: 15px;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
     transform: rotate(315.2deg);
-    position: absolute;
-    right: 50px;
-    top: -550px;
+    position: fixed;
+    right: -580px;
+    bottom: -55px;
 }
 /*Inicio do item psicológico*/
