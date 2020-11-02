@@ -33,6 +33,24 @@ body{
 }
 /*final do background color do header localização*/
 
+.linha{
+  height: 30px;
+  width: 100%;
+  background-color: #2eca6a;
+  padding-top: 6px;
+}
+
+.lg {
+  margin-left: 84%;
+  background: none;
+  color: #fff;
+}
+.btn2 {
+  border: none;
+  background: none;
+  padding-top: 20px;
+  color: #fff;
+}
 
 nav:after{
   content: '';
