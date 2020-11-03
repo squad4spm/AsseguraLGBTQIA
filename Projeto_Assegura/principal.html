@@ -5,99 +5,52 @@
     <meta charset="UTF-8">
     <title>Assegura LGBTQIA+</title>
     <link rel="stylesheet" href="../lib/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="./_css/index.css">
-    <link rel="stylesheet" href="./_css/estilo.css">
+    <link rel="stylesheet" type="text/css" href="_css/principal.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <!--Inicio menu-->
-
-<nav class="navNomeHome">
-    <div class="logo">
-        Assegura LGBTQIA+</div>
-    <label for="btn" class="icon">
-        <span class="fa fa-bars"></span>
-    </label>
-    <input type="checkbox" id="btn">
-    <ul>
-        <li><a href="/Recode/Assegura lgbt/Assegura/Assegura/index.html">Home</a></li>
-        <li>
-            <label for="btn-2" class="show">Atendimento +</label>
-            <a href="#">Atendimento</a>
-            <input type="checkbox" id="btn-2">
-            <ul>
-                <li><a href="defesaPesssoal.html">Defesa Pessoal</a></li>
-                <li><a href="nomeSocial.html">Nome Social</a></li>
-                <li><a href="#">Casa De Acolhimento</a></li>
-                <li><a href="#">Juridico</a></li>
-                <li><a href="#">Psicologico</a></li>
-            </ul>
-        </li>
-        <li><a href="localizacao.html">Localizações</a></li>
-        <li>
-            <label for="btn-1" class="show">Sobre +</label>
-            <a href="#">Sobre</a>
-            <input type="checkbox" id="btn-1">
-            <ul>
-                <li><a href="#">Nossa História</a></li>
-                <li><a href="#">Contato</a></li>
-            </ul>
-        </li>
-        <li><a href="#">Como Ajudar</a></li>
-    </ul>
-</nav>
-
-<!--final do menu-->
-
-<div class="primeiraClass">
-    <div class="col-2">
-        <h1>Espalhe No Seu Mundo<br>A Diversidade!</h1>
-        <p><br>Este é um parágrafo </p>
+<header>
+    <div class="header-roxo">
     </div>
-    <div class="col-2">
-        <img src="./_img/LGBTQIA.jpg">
-    </div>
-</div>
-<div class="primeiraClass">
-    <div class="col-2">
-        <img src="./_img/LGBTQIA.jpg">
-    </div>
-    <div class="col-2">
-        <h1>Espalhe No Seu Mundo<br>A Diversidade!</h1>
-        <p><br>Este é um parágrafo </p>
-    </div>
-</div>
-<div class="primeiraClass">
-    <div class="col-2">
-        <h1>Espalhe No Seu Mundo<br>A Diversidade!</h1>
-        <p><br>Este é um parágrafo </p>
-    </div>
-    <div class="col-2">
-        <img src="./_img/LGBTQIA.jpg">
-    </div>
-</div>
-<div class="divicao">
     <div class="container">
-        <div class="primeiraClass">
-            <div class="col-3">
-                <img src="./_img/LGBTQIA.jpg">
+        <div class="container">
+            <img id="logotipo" src="../images/logoAssegura-250px.png" alt="Logotipo">
+         </div>
+        <div class="row">
+                    <nav id="menu">
+                        <ul>
+                            <li><a href="#">Defesa Pessoal</a></li>
+                            <li><a href="#">Nome Social</a></li>
+                            <li><a href="#">Atendimento Psicologico</a></li>   
+                            <li><a href="#">Atendimento Juridico</a></li>   
+                            <li><a href="#">Casa de Acolhimento</a></li>   
+                        </ul>
+                        
+                        <ul class="menu-right float-right">
+                            <li><a href="#">Localização</a></li>   
+                            <li class="branco"><a class="btn ajude" href="#">Ajude</a></li>
+                        </ul>
+                    </nav>
             </div>
-            <div class="col-3">
-                <img src="./_img/LGBTQIA.jpg">
-            </div>
-            <div class="col-3">
-                <img src="./_img/LGBTQIA.jpg">
-            </div>
+
         </div>
     </div>
-</div>
+
+</header>
+
+<section>
+
+    <div id="banner">
+        <div class="container">
+            <h1>Defesa Pessoal<small>LGBTQIA+</small></h1>
+        </div>
+    </div>
+
+</section>
+
 <script src="../lib/jquery/jquery-3.5.1.min.js"></script>
 <script src="../lib/bootstrap/js/bootstrap.min.js"></script>
-<script>
-    $('.icon').click(function () {
-        $('span').toggleClass("cancel");
-    });
-</script>
 </body>
 
 </html>
