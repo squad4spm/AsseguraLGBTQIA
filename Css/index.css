@@ -8,7 +8,7 @@
 }
 /*primeira sectiom com imagem de fundo*/
 .jumbotron {
-  background-image: url("../_img/faixa-da-resistencia-kimono-696x446.jpg");
+  background-image: url("../images/faixa-da-resistencia-kimono-696x446.jpg");
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
