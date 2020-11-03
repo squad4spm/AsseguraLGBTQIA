@@ -406,5 +406,27 @@ p{
 
 /*final da edição das tres imagens*/
 
+/* Inicio Seção terceiraClass - artigo tela Defesa Pessoal */
+section.terceiraClass{
+  padding: 40px 0;
+}
+section.terceiraClass p{
+  font-size: 18px;
+}
 
+
+/* Final Seção terceiraClass - artigo tela Defesa Pessoal */
+
+/* Inicio Seção quartaClass - artigo tela Defesa Pessoal */
+section.quartaClass{
+  background-color: #400040;
+  color: #c5c5c5;
+  padding: 40px 0;
+}
+section.quartaClass p{
+  font-size: 14px;
+}
+
+
+/* Final Seção quartaClass - artigo tela Defesa Pessoal */
 
