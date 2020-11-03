@@ -6,6 +6,27 @@
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
+/*primeira sectiom com imagem de fundo*/
+.jumbotron {
+  background-image: url("../_img/faixa-da-resistencia-kimono-696x446.jpg");
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  height: 500px;
+}
+.jumbotron p{
+  
+  position: relative;
+  text-align: right;
+  color: white;
+  right: 160px;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  
+}
+/*final da edição da section*/
 body{
   background: #f2f2f2;
 }
@@ -292,6 +313,58 @@ p{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+/*inicio mudanças implementadas */
+.primeiraClass div p{
+  color: #727272;
+  font-size: 23px;
+  text-align: justify;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+.primeiraClass div h3{
+  color: #333333;
+  font-weight: 520;
+  text-align: right;
+  font-size: 26px;
+  margin-right: 22px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+.primeiraClass div img {
+  height: 360px;
+  margin-left: 10px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+.segundaClass {
+  background-color: #FFD5FF;
+}
+
+.segundaClass{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.segundaClass div p{
+  color: #400040;
+  font-size: 23px;
+  text-align: center;
+}
+.segundaClass div img{
+  height: 300px;
+  margin-left: 170px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+.fonteDois div p{
+  font-weight: 7000px;
+}
+
+/*fim mudanças implementadas*/
 .col-2{
     flex-basis: 50%;
     min-width: 500px;
