@@ -20,31 +20,31 @@
 /*Inicio da animação pulsante do botão principal*/
 @keyframes pulse{
     0%{
-        box-shadow: 0 0 0 0px rgba(255, 255, 255, 0.2);
+        box-shadow: 0 0 0 0px rgba(255, 255, 255, 0.5);
         transform: scale(1);
     }
     10%{
-        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.2);
+        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.5);
         transform: scale(1);
     }
     20%{
-        box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2);
+        box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.4);
         transform: scale(1);
     }
     30%{
-        box-shadow: 0 0 0 30px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 30px rgba(255, 255, 255, 0.4);
         transform: scale(1);
     }
     40%{
-        box-shadow: 0 0 0 40px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 40px rgba(255, 255, 255, 0.3);
         transform: scale(1);
     }
     50%{
-        box-shadow: 0 0 0 50px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 50px rgba(255, 255, 255, 0.3);
         transform: scale(1);
     }
     60%{
-        box-shadow: 0 0 0 60px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 60px rgba(255, 255, 255, 0.2);
         transform: scale(1);
     }
     65%{
@@ -133,7 +133,7 @@
 .item:hover .descricaoA{
     display: block;
     width: 400px;
-    height: 600px;
+    height: 530px;
     background-color: #FFFAFA;
     border: 8px solid #9400D3;
     opacity: 0.85;
@@ -167,7 +167,7 @@
     display: block;
     
     width: 400px;
-    height: 600px;
+    height: 530px;
     background-color: #FFFAFA;
     border: 8px solid #A0522D;
     opacity: 0.85;
@@ -200,7 +200,7 @@
 .item:hover .descricaoD{
     display: block;
     width: 400px;
-    height: 600px;
+    height: 530px;
     background-color: #FFFAFA;
     border: 8px solid #00FFFF;
     opacity: 0.85;
@@ -233,7 +233,7 @@
 .item:hover .descricaoE{
     display: block;
     width: 400px;
-    height: 600px;
+    height: 530px;
     background-color: #FFFAFA;
     border: 8px solid #7CFC00;
     opacity: 0.85;
@@ -266,7 +266,7 @@
 .item:hover .descricaoF{
     display: block;
     width: 400px;
-    height: 600px;
+    height: 530px;
     background-color: #FFFAFA;
     border: 8px solid #0000FF;
     opacity: 0.85;
@@ -299,7 +299,7 @@
 .item:hover .descricaoG{
     display: block;
     width: 400px;
-    height: 600px;
+    height: 530px;
     background-color: #FFFAFA;
     border: 8px solid #FF0000;
     opacity: 0.85;
@@ -332,7 +332,7 @@
 .item:hover .descricaoH{
     display: block;
     width: 400px;
-    height: 600px;
+    height: 530px;
     background-color: #FFFAFA;
     border: 8px solid #FFFF00;
     opacity: 0.85;
