@@ -65,7 +65,7 @@ header .header-roxo{
 .menu-right .ajude{
     background-color: #5e299a;
     border-color: #5e299a;
-    color: #fff;
+    color: #fff!important;
 }
 
 .menu-right li {
