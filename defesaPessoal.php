@@ -1,16 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" type="text/css" href="./css/index.css">
-    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-</head>
-<body>
-    
+<?php include('header.php');?>
+<?php include('menu.php');?>
+
+<section id="pg_defesa_pessoal_banner" >
+    <div class="jumbotron card card-image  d-block">
+        <p class="mx-2 mb-4">Defesa Pessoal <br> LGBTQIA+</p>
+    </div>
+</section>
+
+
+<section id="pg_defesa_pessoal_primeiraClass" class="container primeiraClass">
+    <div class="row">
+        <div class="col-md-6">
+            <p>Muitas pessoas LGBTQIA+ no centro de São Paulo precisam de apoio, para se defender de violências sofridas. Mas muitas dessas pessoas não conseguem acessar esse tipo serviço. Seja por falta de grana, por falta de um serviço personalizado, falta de tempo ou até mesmo falta de acesso à informação.</p>
+            <h3><br>Por isso criamos o Assegura LGBTQIA+ </h3>
+        </div>
+        <div class="col-md-6">
+            <img src="./images/Defesa.png" class="img-fluid"/>
+        </div>
+    </div>
+</section>
+
+<section id="pg_defesa_pessoal_segundaClass" class="container-fluid segundaClass">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <p>Por isso, vamos através de Informações e Parcerias com Professores e Escolas de Defesa Pessoal, conectar quem precisa de acesso a esse serviço com Profissionais e Ambientes seguro, livre de assédio, livre de discriminações, em que as pessoas possam desenvolver suas potencialidades em um clima de respeito, amizade e colaboração, buscando assegurar a comunidade LGBTQIA+.</p>
+                <p>Nosso diferencial, é que além de promover essa conexão, também vamos disponibilizar na nossa plataforma, vídeo com aulas básicas gratuitas </p>
+            </div>
+        </div>
+        <div class="segundaClass fonteDois">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="./images/Defesa_Pessoal.png" class="img-fluid">
+                </div>
+                <div class="col-md-6">
+                    <p>Pesquisas mostram que uma pessoa treinada para responder adequadamente a um ataque, pode até mesmo impedir que a agressão comece, pois, reagem ao perigo de forma mais assertiva e confiante, aumentando as chances de evitar situações violentas ou enfrentá-las com segurança. </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Inicio Terceira Sessão -->
 <section class="container-fluid terceiraClass">
     <div class="container">
@@ -22,16 +52,16 @@
         </div>
         
         <div class="row">
-            <div class="col">
+            <div class="col-md-3">
                 <iframe width="100%" height="160" src="https://www.youtube.com/embed/HF8NxF1QYh0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="col">
+            <div class="col-md-3">
                 <iframe width="100%" height="160" src="https://www.youtube.com/embed/kxnjvWnpnxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="col">
+            <div class="col-md-3">
                 <iframe width="100%" height="160" src="https://www.youtube.com/embed/rSmerT0ZpFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="col">
+            <div class="col-md-3">
                 <iframe width="100%" height="160" src="https://www.youtube.com/embed/C14myVELhnE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
@@ -81,5 +111,4 @@
  </section>
 <!-- Final Quarta Sessão -->
 
-</body>
-</html>
+<?php include('footer.php');?>

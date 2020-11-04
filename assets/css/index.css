@@ -1,0 +1,119 @@
+/*primeira sectiom com imagem de fundo*/
+#pg_defesa_pessoal_banner .jumbotron {
+  background-image: url("../images/faixa-da-resistencia-kimono-696x446.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  height: 500px;
+}
+#pg_defesa_pessoal_banner .jumbotron p {
+  position: relative;
+  text-align: right;
+  color: white;
+  right: 160px;
+  font-size: 50px;
+  font-style: italic;
+}
+/*final da edição da section*/
+
+#pg_defesa_pessoal_primeiraClass .primeiraClass {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+/*inicio mudanças implementadas */
+#pg_defesa_pessoal_primeiraClass .primeiraClass div p {
+  color: #727272;
+  font-size: 23px;
+  text-align: justify;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+#pg_defesa_pessoal_primeiraClass .primeiraClass div h3 {
+  color: #333333;
+  font-weight: 520;
+  text-align: right;
+  font-size: 26px;
+  margin-right: 22px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+#pg_defesa_pessoal_primeiraClass .primeiraClass div img {
+  height: 360px;
+  margin-left: 10px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+
+#pg_defesa_pessoal_primeiraClass .segundaClass {
+  background-color: #ffd5ff;
+}
+
+#pg_defesa_pessoal_primeiraClass .segundaClass {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#pg_defesa_pessoal_primeiraClass .segundaClass div p {
+  color: #400040;
+  font-size: 23px;
+  text-align: center;
+}
+#pg_defesa_pessoal_primeiraClass .segundaClass div img {
+  height: 300px;
+  margin-left: 170px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+#pg_defesa_pessoal_primeiraClass .fonteDois div p {
+  font-weight: 7000px;
+}
+
+/*edição das tres imagens ao final da pagina*/
+.divicao {
+  margin: 70px 0;
+}
+.col-3 {
+  flex: 15%;
+  min-width: 250px;
+  margin: 30px;
+}
+
+.col-3 img {
+  width: 100%;
+}
+.container {
+  max-width: 1080px;
+  margin: auto;
+  justify-content: center;
+  padding: 20px;
+}
+
+/*final da edição das tres imagens*/
+
+/* Inicio Seção terceiraClass - artigo tela Defesa Pessoal */
+section.terceiraClass {
+  padding: 40px 0;
+}
+section.terceiraClass p {
+  font-size: 18px;
+}
+
+/* Final Seção terceiraClass - artigo tela Defesa Pessoal */
+
+/* Inicio Seção quartaClass - artigo tela Defesa Pessoal */
+section.quartaClass {
+  background-color: #400040;
+  color: #c5c5c5;
+  padding: 40px 0;
+}
+section.quartaClass p {
+  font-size: 14px;
+}
+
+/* Final Seção quartaClass - artigo tela Defesa Pessoal */

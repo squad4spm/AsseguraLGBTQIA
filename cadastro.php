@@ -1,60 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+<?php include("header.php"); ?>
+<?php include("menu.php"); ?>
 
-<head>
-    <meta charset="UTF-8">
-    <title>Assegura LGBTQIA+</title>
-    <link rel="stylesheet" type="text/css" href="./css/fomulario.css">
-    <link rel="stylesheet" type="text/css" href="./css/index.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-</head>
-
-<body>
-    
-    <div class="header">
-        <div>
-            <nav>
-
-                <div class="logo">Assegura LGBTQIA+</div>
-                <ul>
-                    <li><a class="menu" href="./principal.html">Home</a></li>
-                    <li><a href="#">Sobre</a>
-                        <label for="btn-1" class="show"></label>
-                        <ul>
-                            <li><a>Nossa História</a></li>
-                            <li><a>O que fazemos</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Atendimento</a>
-                        <ul>
-                            <li><a>Psicológico</a>
-                                <ul>
-                                    <li><a>Saiba mais</a></li>
-                                </ul>
-                            </li>
-                            <li><a>Juridico</a>
-                                <ul>
-                                    <li><a>Saiba mais</a></li>
-                                </ul>
-                            </li>
-                            <li><a>Defesa Pessoal</a>
-                                <ul>
-                                    <li><a>Saiba mais</a></li>
-                                </ul>
-                            </li>
-                            <li><a>Cadastro</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Contato</a></li>
-                    <li><a href="#">Feedback</a></li>
-
-                </ul>
-            </nav>
-        </div>
-        <section class="body">
+<section id="formulario_cadastro">
        <div class="container-cadastro">
            <header>Cadastro</header>
            <div class="barra-progresso">
@@ -160,7 +107,6 @@
            </div>
        </div>
     </section>
-    <script src="./js/formulario.js"></script>
-</body>
 
-</html>
+
+<?php include("footer.php"); ?>

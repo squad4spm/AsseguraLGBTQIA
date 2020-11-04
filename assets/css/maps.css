@@ -1,0 +1,12 @@
+#pg_localizacao .mapa {
+  height: 600px;
+  width: 800px;
+}
+
+#pg_localizacao .center {
+  padding-top: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

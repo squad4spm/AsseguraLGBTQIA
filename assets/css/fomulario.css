@@ -1,0 +1,160 @@
+section#formulario_cadastro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+section#formulario_cadastro .container-cadastro {
+  width: 400px;
+  background: darkolivegreen;
+  border-radius: 5px;
+  text-align: center;
+  padding: 50px 35px 10px 35px;
+}
+section#formulario_cadastro .container-cadastro header {
+  font-size: 35px;
+  font-weight: 600;
+  margin: 0 0 30px 0;
+}
+section#formulario_cadastro .container-cadastro .formulario {
+  width: 100%;
+  overflow: hidden;
+}
+section#formulario_cadastro .formulario form {
+  display: flex;
+  width: 400%;
+}
+section#formulario_cadastro .formulario form .pagina {
+  width: 25%;
+  transition: margin-left 0.3s ease-in-out;
+}
+section#formulario_cadastro .formulario form .pagina .titulo {
+  text-align: left;
+  font-size: 25px;
+  font-weight: 500;
+}
+section#formulario_cadastro .formulario form .pagina .fild {
+  height: 45px;
+  width: 330px;
+  margin: 45px 0;
+  display: flex;
+  position: relative;
+}
+section#formulario_cadastro .formulario form .pagina .fild .label {
+  position: absolute;
+  top: -30px;
+  font-weight: 500;
+}
+section#formulario_cadastro .formulario form .pagina .fild input {
+  height: 100%;
+  width: 100%;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  padding-left: 15px;
+}
+section#formulario_cadastro form .pagina .fild select {
+  width: 100%;
+  padding-left: 10px;
+  font-size: 17px;
+  font-weight: 500;
+}
+section#formulario_cadastro .formulario form .pagina .fild button {
+  width: 100%;
+  height: calc(100% + 5px);
+  margin-top: -20px;
+  border: none;
+  background: #d43f8d;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+section#formulario_cadastro .formulario form .pagina .fild button:hover {
+  background: #000;
+}
+section#formulario_cadastro .formulario form .pagina .fild .btns button {
+  margin-top: -20px !important;
+}
+section#formulario_cadastro form .pagina .fild .btns button.volt {
+  margin-right: 3px;
+  font-size: 17px;
+}
+section#formulario_cadastro form .pagina .fild .btns button.prox {
+  margin-left: 3px;
+}
+
+/* barra de progresso*/
+
+section#formulario_cadastro .container-cadastro .barra-progresso {
+  display: flex;
+  margin: 40px 0;
+}
+section#formulario_cadastro .container-cadastro .barra-progresso .passo {
+  position: relative; /*centraliza o incone check para dentro do circulo*/
+  text-align: center;
+  width: 100%;
+}
+section#formulario_cadastro .barra-progresso .passo p {
+  font-size: 18px;
+  font-weight: 500;
+  color: #000;
+  margin-bottom: 8px;
+}
+section#formulario_cadastro .barra-progresso .passo .bullet {
+  position: relative;
+  height: 25px;
+  width: 25px;
+  border: 2px solid #000;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+/* o comando abaixo tira a barrinha branca do ultimo filho (4)*/
+section#formulario_cadastro .barra-progresso .passo:last-child .bullet:before,
+section#formulario_cadastro .barra-progresso .passo:last-child .bullet:after {
+  display: none;
+}
+/* final do comando para tirar a barra ao final*/
+section#formulario_cadastro .barra-progresso .passo .bullet:before,
+section#formulario_cadastro .barra-progresso .passo .bullet:after {
+  position: absolute;
+  content: "";
+  bottom: 11px;
+  right: -51px;
+  height: 3px;
+  width: 44px;
+  background: #000;
+}
+/*inicio da animação da barra (o "active é do js)*/
+section#formulario_cadastro .barra-progresso .passo .bullet .active:after {
+  background: #d43f8d;
+  transform: scaleX(0);
+  transform-origin: left;
+  animation: animate 0.3s linear infinite;
+}
+@keyframes animate {
+  100% {
+    transform: scaleX(1);
+  }
+}
+/*final da animação da barra*/
+section#formulario_cadastro .barra-progresso .passo span {
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 25px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+section#formulario_cadastro .barra-progresso .passo .check {
+  position: absolute;
+  left: 50%;
+  top: 70%;
+  font-size: 15px;
+  transform: translate(-50%, -50%);
+  display: none;
+}
