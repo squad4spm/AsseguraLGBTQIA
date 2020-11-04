@@ -2,7 +2,7 @@
 <div id="antes_do_esquema_da_home">
 <main id="esquema_da_home">
   <div class="navbar">
-      <img src="./images/logoAssegura.png" alt="Logo assegura LGBTQIA+" width="230px" style="vertical-align:middle">
+      <img src="./images/logoAssegura.png" alt="Logo assegura LGBTQIA+" width="210px" style="vertical-align:middle">
       <ul class="iconsM">
           <li class="item"><a href="defesaPessoal.php">
               <img src="./images/selfDefense.png" alt="house icon"></a>
