@@ -1,6 +1,7 @@
 <?php include('header.php');?>
 <div id="antes_do_esquema_da_home">
 <main id="esquema_da_home">
+  <div class="d-none d-xl-block">
   <div class="navbar">
       <img src="./images/logoAssegura.png" alt="Logo assegura LGBTQIA+" width="210px" style="vertical-align:middle">
       <ul class="iconsM">
@@ -47,6 +48,42 @@
               </div>
           </li>
       </ul>
+  </div>
+  </div>
+  
+  <div class="d-none d-lg-block">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="descricaoCardH">
+                            <h2>Pisicológico</h2>
+                        </div>
+                    <div class="carousel-item">
+                        <div class="descricaoCardH">
+                            <h2>Pisicológico</h2>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="descricaoCardH">
+                            <h2>Pisicológico</h2>
+                        </div>
+                </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
   </div>
 </main>
 </div>
