@@ -1,4 +1,8 @@
 /*primeira sectiom com imagem de fundo*/
+#pg_defesa_pessoal_banner .jumbotron.nomeSocial {
+  background-image: url("../images/nomesocial.jpeg");
+  text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+}
 #pg_defesa_pessoal_banner .jumbotron {
   background-image: url("../images/faixa-da-resistencia-kimono-696x446.jpg");
   background-position: center;

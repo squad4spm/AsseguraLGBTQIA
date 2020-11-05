@@ -6,7 +6,7 @@
   <title>Assegura LGBTQIA+</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/nav.css">
-  <link rel="stylesheet" href="assets/css/ajude.css">
+  <link rel="stylesheet" href="assets/css/menu.css">
   <link rel="stylesheet" href="assets/css/defesaPessoal.css">
   <link rel="stylesheet" href="assets/css/maps.css">
   <link rel="stylesheet" href="assets/css/login.css">
@@ -14,4 +14,3 @@
   <script src="assets/js/maps.js"></script>
 </head>
 <body>
-<?php //include("menu.php");?>
