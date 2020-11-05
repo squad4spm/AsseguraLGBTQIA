@@ -11,7 +11,7 @@
             <nav id="menu">
                 <ul>
                     <li><a href="defesaPessoal.php">Defesa Pessoal</a></li>
-                    <li><a href="#">Nome Social</a></li>
+                    <li><a href="nomeSocial.php">Nome Social</a></li>
                     <li><a href="#">Atendimento Psicologico</a></li>   
                     <li><a href="#">Atendimento Juridico</a></li>   
                     <li><a href="#">Casa de Acolhimento</a></li>   
@@ -19,7 +19,7 @@
                 
                 <ul class="menu-right float-right">
                     <li><a href="#">Localização</a></li>   
-                    <li class="branco"><a class="btn ajude" href="#">Ajude</a></li>
+                    <li class="branco"><a class="btn ajude" href="ajude.php">Ajude</a></li>
                 </ul>
             </nav>
         </div>

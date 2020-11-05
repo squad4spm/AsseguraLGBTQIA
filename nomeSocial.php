@@ -11,19 +11,11 @@
 <section id="pg_defesa_pessoal_primeiraClass" class="container primeiraClass">
     <div class="row">
         <div class="col-md-6">
-<<<<<<< HEAD
-            <p>Nome social é o nome pelo qual pessoas transexuais, travestis ou outros preferem ser chamadas no dia a dia, ao invés de seu nome registrado em cartório, que não reflete a sua identidade de gênero. O conceito de identidade de gênero faz referência ao gênero com o qual a pessoa se identifica, podendo ser feminino, masculino, não-binário, entre outros</p>
-            
-        </div>
-        <div class="col-md-6">
-           <img src="./images/Defesa.png" class="img-fluid"/>
-=======
         <img src="./images/unnamed2.png" class="img-fluid"/>
             
         </div>
         <div class="col-md-6">
         <p>Nome social é o nome pelo qual pessoas transexuais, travestis ou outros preferem ser chamadas no dia a dia, ao invés de seu nome registrado em cartório, que não reflete a sua identidade de gênero. O conceito de identidade de gênero faz referência ao gênero com o qual a pessoa se identifica, podendo ser feminino, masculino, não-binário, entre outros</p>
->>>>>>> 8b4b055b04892a4e666ab4ee3b82f2418605ebd1
         </div>
     </div>
 </section>
@@ -33,17 +25,12 @@
         <div class="row">
             <div class="col-md-12">
                 <p>No processo de aceitação e entendimento em relação à identidade de gênero de cada um, o nome é uma das questões que têm maior impacto, já que os nomes estão diretamente ligados a um conceito de masculino e feminino em nossa sociedade. Felizmente, o processo para que pessoas trans possam utilizar seu nome social em documentos oficiais ficou menos complicado e mais inclusivo.</p>
-<<<<<<< HEAD
                 <p> Agora vamos tirar algumas duvidas </p>
-=======
-                <p> aAgora vamos tirar algumas duvidas </p>
->>>>>>> 8b4b055b04892a4e666ab4ee3b82f2418605ebd1
             </div>
         </div>
         <div class="segundaClass fonteDois">
             <div class="row">
                 <div class="col-md-6">
-<<<<<<< HEAD
                     <img src=".imgser" class="img-fluid">
                 </div>
                 <div class="col-md-6">
@@ -57,22 +44,6 @@
   <p> É possível solicitar a gratuidade do procedimento?
 Caso o interessado na mudança não tenha condições de arcar com os custos do procedimento, ele pode solicitar a gratuidade no cartório . Para isso, basta apresentar a declaração de hipossuficiência – documento necessário para obter assistência judiciária gratuita. Caso deseje, o cidadão que deseja realizar as mudanças pode contatar a Defensoria Pública de seu estado para conseguir a gratuidade.
 </P>
-=======
-                <p>O que pode ser alterado?
- 
- Conforme a regulamentação, podem ser alterados o prenome, agnomes indicativos de gênero (filho, júnior, neto e etc.) e o gênero em certidões de nascimento e de casamento (com a autorização do cônjuge). </p>
-                <p>Preciso fazer a alteração no cartório em que fui registrado?
- 
- Não. O pedido pode ser realizado em qualquer cartório de Registro Civil de Pessoas Naturais em todo território nacional. O cartório que fizer a alteração deverá encaminhar via sistema eletrônico o procedimento ao cartório que registrou o nascimento da pessoa.
-  </p>
-  <p> É possível solicitar a gratuidade do procedimento?
-Caso o interessado na mudança não tenha condições de arcar com os custos do procedimento, ele pode solicitar a gratuidade no cartório . Para isso, basta apresentar a declaração de hipossuficiência – documento necessário para obter assistência judiciária gratuita. Caso deseje, o cidadão que deseja realizar as mudanças pode contatar a Defensoria Pública de seu estado para conseguir a gratuidade.
-</P>
-                </div>
-                <div class="col-md-6">
-                <img src="./images/.imgser.jpg" class="img-fluid">
-                   
->>>>>>> 8b4b055b04892a4e666ab4ee3b82f2418605ebd1
                 </div>
             </div>
         </div>
@@ -117,33 +88,28 @@ Caso o interessado na mudança não tenha condições de arcar com os custos do 
         </div>
 
         <div class="row">
-             <div class="col-md-3">
+             <div class="col-md-4">
                  <img src="./images/casa1.PNG" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
-                 <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
-                 <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
+                 <h5 class="mt-0">Casa1 -Guia Para Retificação Do Regitro Civil De Pessoas Não Cis-Gêneras</h5>
+                 <p>Guia da Casa um para retificação do registro civil de pessoas não cisgêneras.</p>
                  <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>
              </div>
 
-             <div class="col-md-3">
+             <div class="col-md-4">
                 <img src="./images/imagemartigotrans.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
-                <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
-                <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
-                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>
+                <h5 class="mt-0">Defensoria Pública de São Paulo </h5>
+                <p>Guia para retificação do registro civil de pessoas não-cisgêneras</p>
+                <a class="btn btn-primary" target="_blank" href="https://www.defensoria.sp.def.br/dpesp/Default.aspx?idPagina=6771" role="button">Leia Mais</a>
              </div>
 
-             <div class="col-md-3">
+             <div class="col-md-4">
                  <img src="./images/artigosemdiferenca.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
-                 <h5 class="mt-0">“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?</h5>
-                 <p>Uma das minhas partes favoritas do desafio de esgrima deste ano...</p>
-                 <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/sem-ver-diferen%C3%A7as-%C3%A9-poss%C3%ADvel-diversidade-e-inclus%C3%A3o-nos-treinos-de-artes-marciais-c60ab57db6d9" role="button">Leia Mais</a>
+                 <h5 class="mt-0">“O DIREITO À RETIFICAÇÃO DE NOME E GÊNERO PARA PESSOAS TRANS</h5>
+                 <p>Um informativo prático com indicações do passo a passo para a retificação da certidão de nascimento</p>
+                 <a class="btn btn-primary" target="_blank" href="https://www.mattosfilho.com.br/Documents/190614_cartilha_mobile.pdf" role="button">Leia Mais</a>
              </div>
 
-             <div class="col-md-3">
-                <img src="./images/artigosemdiferenca.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
-                <h5 class="mt-0">“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?</h5>
-                <p>Uma das minhas partes favoritas do desafio de esgrima deste ano...</p>
-                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/sem-ver-diferen%C3%A7as-%C3%A9-poss%C3%ADvel-diversidade-e-inclus%C3%A3o-nos-treinos-de-artes-marciais-c60ab57db6d9" role="button">Leia Mais</a>
-             </div>
+            
         </div>
     </div>
  </section>

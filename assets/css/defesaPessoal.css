@@ -25,54 +25,48 @@
 }
 
 /*inicio mudanças implementadas */
-#pg_defesa_pessoal_primeiraClass .primeiraClass div p {
+#pg_defesa_pessoal_primeiraClass div div p {
   color: #727272;
   font-size: 23px;
   text-align: justify;
   flex-wrap: wrap;
   box-sizing: border-box;
 }
-#pg_defesa_pessoal_primeiraClass .primeiraClass div h3 {
+#pg_defesa_pessoal_primeiraClass div div h3 {
   color: #333333;
   font-weight: 520;
-  text-align: right;
-  font-size: 26px;
+  font-size: 27px;
   margin-right: 22px;
-  flex-wrap: wrap;
-  box-sizing: border-box;
+
 }
 
-#pg_defesa_pessoal_primeiraClass .primeiraClass div img {
-  height: 360px;
+#pg_defesa_pessoal_primeiraClass div div img {
+  height: 300px;
   margin-left: 10px;
   flex-wrap: wrap;
   box-sizing: border-box;
 }
 
-#pg_defesa_pessoal_primeiraClass .segundaClass {
+#pg_defesa_pessoal_segundaClass {
   background-color: #ffd5ff;
-}
-
-#pg_defesa_pessoal_primeiraClass .segundaClass {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   justify-content: space-around;
 }
-#pg_defesa_pessoal_primeiraClass .segundaClass div p {
+
+#pg_defesa_pessoal_segundaClass div p {
   color: #400040;
-  font-size: 23px;
+  font-size: 22px;
   text-align: center;
 }
-#pg_defesa_pessoal_primeiraClass .segundaClass div img {
+#pg_defesa_pessoal_segundaClass div img {
   height: 300px;
-  margin-left: 170px;
+  margin-left: 0 auto ;
   flex-wrap: wrap;
   box-sizing: border-box;
 }
-#pg_defesa_pessoal_primeiraClass .fonteDois div p {
-  font-weight: 7000px;
-}
+
 
 /* Inicio Seção terceiraClass - artigo tela Defesa Pessoal */
 section.terceiraClass {

@@ -342,7 +342,7 @@ div#antes_do_esquema_da_home {
   left: -580px;
   bottom: -310px;
 }
-/*Inicio do item juridico*/
+/*Fim do item juridico*/
 
 /*Inicio do item psicológico*/
 #esquema_da_home .navbar:hover .iconsM li:nth-child(7) {
@@ -375,7 +375,85 @@ div#antes_do_esquema_da_home {
   right: -580px;
   bottom: -55px;
 }
-/*Inicio do item psicológico*/
+/*Fim do item psicológico*/
+
+#esquema_da_home .descricaoCardA {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 8px solid #9400d3;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+#esquema_da_home .descricaoCardJ {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 8px solid #a0522d;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+#esquema_da_home .descricaoCardD {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 8px solid #00ffff;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+#esquema_da_home .descricaoCardE {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 8px solid #7cfc00;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+#esquema_da_home .descricaoCardF {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 8px solid #0000ff;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+#esquema_da_home .descricaoCardG {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 8px solid #ff0000;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
 
 #esquema_da_home .descricaoCardH {
   display: block;
@@ -389,17 +467,3 @@ div#antes_do_esquema_da_home {
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
 }
-
-#esquema_da_home .descricaoCardJ {
-  display: block;
-  width: 300px;
-  height: 400px;
-  background-color: #fffafa;
-  border: 8px solid #ffff00;
-  margin: 0;
-  padding: 0;
-  opacity: 0.85;
-  border-radius: 15px;
-  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
-}
-
