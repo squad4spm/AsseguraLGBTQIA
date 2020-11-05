@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-md-12">
                 <p>No processo de aceitação e entendimento em relação à identidade de gênero de cada um, o nome é uma das questões que têm maior impacto, já que os nomes estão diretamente ligados a um conceito de masculino e feminino em nossa sociedade. Felizmente, o processo para que pessoas trans possam utilizar seu nome social em documentos oficiais ficou menos complicado e mais inclusivo.</p>
-                <p> Agora vamos tirar algumas duvidas </p>
+                <p> aAgora vamos tirar algumas duvidas </p>
             </div>
         </div>
         <div class="segundaClass fonteDois">
