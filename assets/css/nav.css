@@ -1,3 +1,16 @@
+#esquema_da_home #carouselExampleIndicators{
+  display: none;
+}
+@media(max-width:1080px) {
+	#esquema_da_home #carouselExampleIndicators{
+		display: block;
+  }
+  #esquema_da_home .navbar{
+		display: none;
+	}
+}/*   Telefone    */
+
+
 div#antes_do_esquema_da_home {
   background-image: url("../images/bcg.jpg");
   width: 100%;
@@ -366,11 +379,27 @@ div#antes_do_esquema_da_home {
 
 #esquema_da_home .descricaoCardH {
   display: block;
-  width: 400px;
-  height: 530px;
+  width: 300px;
+  height: 400px;
   background-color: #fffafa;
   border: 8px solid #ffff00;
+  margin: 0;
+  padding: 0;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
 }
+
+#esquema_da_home .descricaoCardJ {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 8px solid #ffff00;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
+
