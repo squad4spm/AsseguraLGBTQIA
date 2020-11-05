@@ -3,7 +3,7 @@
 
 <section id="pg_defesa_pessoal_banner" >
     <div class="jumbotron card card-image  d-block">
-        <p class="mx-2 mb-4">Defesa Pessoal <br> LGBTQIA+</p>
+        <p class="mx-2 mb-4">Nome Social <br> LGBTQIA+</p>
     </div>
 </section>
 
@@ -11,11 +11,11 @@
 <section id="pg_defesa_pessoal_primeiraClass" class="container primeiraClass">
     <div class="row">
         <div class="col-md-6">
-            <p>Muitas pessoas LGBTQIA+ no centro de São Paulo precisam de apoio, para se defender de violências sofridas. Mas muitas dessas pessoas não conseguem acessar esse tipo serviço. Seja por falta de grana, por falta de um serviço personalizado, falta de tempo ou até mesmo falta de acesso à informação.</p>
-            <h3><br>Por isso criamos o Assegura LGBTQIA+ </h3>
+        <img src="./images/unnamed2.png" class="img-fluid"/>
+            
         </div>
         <div class="col-md-6">
-            <img src="./images/Defesa.png" class="img-fluid"/>
+        <p>Nome social é o nome pelo qual pessoas transexuais, travestis ou outros preferem ser chamadas no dia a dia, ao invés de seu nome registrado em cartório, que não reflete a sua identidade de gênero. O conceito de identidade de gênero faz referência ao gênero com o qual a pessoa se identifica, podendo ser feminino, masculino, não-binário, entre outros</p>
         </div>
     </div>
 </section>
@@ -24,17 +24,27 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p>Por isso, vamos através de Informações e Parcerias com Professores e Escolas de Defesa Pessoal, conectar quem precisa de acesso a esse serviço com Profissionais e Ambientes seguro, livre de assédio, livre de discriminações, em que as pessoas possam desenvolver suas potencialidades em um clima de respeito, amizade e colaboração, buscando assegurar a comunidade LGBTQIA+.</p>
-                <p>Nosso diferencial, é que além de promover essa conexão, também vamos disponibilizar na nossa plataforma, vídeo com aulas básicas gratuitas </p>
+                <p>No processo de aceitação e entendimento em relação à identidade de gênero de cada um, o nome é uma das questões que têm maior impacto, já que os nomes estão diretamente ligados a um conceito de masculino e feminino em nossa sociedade. Felizmente, o processo para que pessoas trans possam utilizar seu nome social em documentos oficiais ficou menos complicado e mais inclusivo.</p>
+                <p> aAgora vamos tirar algumas duvidas </p>
             </div>
         </div>
         <div class="segundaClass fonteDois">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="./images/Defesa_Pessoal.png" class="img-fluid">
+                <p>O que pode ser alterado?
+ 
+ Conforme a regulamentação, podem ser alterados o prenome, agnomes indicativos de gênero (filho, júnior, neto e etc.) e o gênero em certidões de nascimento e de casamento (com a autorização do cônjuge). </p>
+                <p>Preciso fazer a alteração no cartório em que fui registrado?
+ 
+ Não. O pedido pode ser realizado em qualquer cartório de Registro Civil de Pessoas Naturais em todo território nacional. O cartório que fizer a alteração deverá encaminhar via sistema eletrônico o procedimento ao cartório que registrou o nascimento da pessoa.
+  </p>
+  <p> É possível solicitar a gratuidade do procedimento?
+Caso o interessado na mudança não tenha condições de arcar com os custos do procedimento, ele pode solicitar a gratuidade no cartório . Para isso, basta apresentar a declaração de hipossuficiência – documento necessário para obter assistência judiciária gratuita. Caso deseje, o cidadão que deseja realizar as mudanças pode contatar a Defensoria Pública de seu estado para conseguir a gratuidade.
+</P>
                 </div>
                 <div class="col-md-6">
-                    <p>Pesquisas mostram que uma pessoa treinada para responder adequadamente a um ataque, pode até mesmo impedir que a agressão comece, pois, reagem ao perigo de forma mais assertiva e confiante, aumentando as chances de evitar situações violentas ou enfrentá-las com segurança. </p>
+                <img src="./images/.imgser.jpg" class="img-fluid">
+                   
                 </div>
             </div>
         </div>
@@ -46,23 +56,23 @@
     <div class="container">
         <div class="row my-3">
             <div class="col">
-                <p class="text-center">Você que é alvo de violência deve saber se defender, isto é empoderamento, é ser livre, <br> é não viver refém do medo.</p>
-                <h3 class="text-center">Vídeos com Aulas de Defesa Pessoal</h3>
+                <p class="text-center">Separamos aqui alguns videos com mais informaçoes sobre o processo </p>
+                <h3 class="text-center">Vídeos</h3>
             </div>
         </div>
         
         <div class="row">
             <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/HF8NxF1QYh0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="160" src="https://www.youtube.com/embed/3oqztdVbivk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/kxnjvWnpnxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="160" src="https://www.youtube.com/embed/hRD_xTbIgYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/rSmerT0ZpFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="160" src="https://www.youtube.com/embed/sBKF5va4nRI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/C14myVELhnE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="160" src="https://www.youtube.com/embed/1NOetBCF_pw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -74,13 +84,13 @@
     <div class="container">
         <div class="row my-3">
             <div class="col">
-                 <h3>Artigos sobre Defesa Pessoal</h3>
+                 <h3>Artigos sobre, Retficação Nome Social e Documentação </h3>
             </div>
         </div>
 
         <div class="row">
              <div class="col-md-3">
-                 <img src="./images/imagemartigotrans.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                 <img src="./images/casa1.PNG" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
                  <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
                  <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
                  <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>

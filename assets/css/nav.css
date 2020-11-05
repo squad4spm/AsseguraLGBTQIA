@@ -12,7 +12,10 @@ div#antes_do_esquema_da_home {
   line-height: 250px;
   border-radius: 50%;
   background-color: #fffafa;
-  margin: 290px auto;
+  margin-top: 260px;
+  margin-bottom: 260px;
+  margin-right: 290px;
+  margin-left: 290px;
   position: relative;
   cursor: pointer;
   text-align: center;
@@ -360,3 +363,14 @@ div#antes_do_esquema_da_home {
   bottom: -55px;
 }
 /*Inicio do item psicológico*/
+
+#esquema_da_home .descricaoCardH {
+  display: block;
+  width: 400px;
+  height: 530px;
+  background-color: #fffafa;
+  border: 8px solid #ffff00;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+}
