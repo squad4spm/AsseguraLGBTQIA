@@ -88,33 +88,28 @@ Caso o interessado na mudança não tenha condições de arcar com os custos do 
         </div>
 
         <div class="row">
-             <div class="col-md-3">
+             <div class="col-md-4">
                  <img src="./images/casa1.PNG" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
-                 <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
-                 <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
+                 <h5 class="mt-0">Casa1 -Guia Para Retificação Do Regitro Civil De Pessoas Não Cis-Gêneras</h5>
+                 <p>Guia da Casa um para retificação do registro civil de pessoas não cisgêneras.</p>
                  <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>
              </div>
 
-             <div class="col-md-3">
+             <div class="col-md-4">
                 <img src="./images/imagemartigotrans.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
-                <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
-                <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
-                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>
+                <h5 class="mt-0">Defensoria Pública de São Paulo </h5>
+                <p>Guia para retificação do registro civil de pessoas não-cisgêneras</p>
+                <a class="btn btn-primary" target="_blank" href="https://www.defensoria.sp.def.br/dpesp/Default.aspx?idPagina=6771" role="button">Leia Mais</a>
              </div>
 
-             <div class="col-md-3">
+             <div class="col-md-4">
                  <img src="./images/artigosemdiferenca.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
-                 <h5 class="mt-0">“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?</h5>
-                 <p>Uma das minhas partes favoritas do desafio de esgrima deste ano...</p>
-                 <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/sem-ver-diferen%C3%A7as-%C3%A9-poss%C3%ADvel-diversidade-e-inclus%C3%A3o-nos-treinos-de-artes-marciais-c60ab57db6d9" role="button">Leia Mais</a>
+                 <h5 class="mt-0">“O DIREITO À RETIFICAÇÃO DE NOME E GÊNERO PARA PESSOAS TRANS</h5>
+                 <p>Um informativo prático com indicações do passo a passo para a retificação da certidão de nascimento</p>
+                 <a class="btn btn-primary" target="_blank" href="https://www.mattosfilho.com.br/Documents/190614_cartilha_mobile.pdf" role="button">Leia Mais</a>
              </div>
 
-             <div class="col-md-3">
-                <img src="./images/artigosemdiferenca.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
-                <h5 class="mt-0">“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?</h5>
-                <p>Uma das minhas partes favoritas do desafio de esgrima deste ano...</p>
-                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/sem-ver-diferen%C3%A7as-%C3%A9-poss%C3%ADvel-diversidade-e-inclus%C3%A3o-nos-treinos-de-artes-marciais-c60ab57db6d9" role="button">Leia Mais</a>
-             </div>
+            
         </div>
     </div>
  </section>
