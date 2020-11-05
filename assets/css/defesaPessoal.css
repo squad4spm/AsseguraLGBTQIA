@@ -1,6 +1,6 @@
 /*primeira sectiom com imagem de fundo*/
 #pg_defesa_pessoal_banner .jumbotron.nomeSocial {
-  background-image: url("../images/nomesocial.jpeg");
+  background-image: url("../../assets/images/nomesocial.jpeg");
   text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
 }
 #pg_defesa_pessoal_banner .jumbotron.ajude {
@@ -73,6 +73,10 @@
   margin-left: 0 auto ;
   flex-wrap: wrap;
   box-sizing: border-box;
+}
+#ImagemNomesocial div img {
+  height: 180px;
+ 
 }
 
 
