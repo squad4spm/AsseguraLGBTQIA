@@ -44,27 +44,65 @@
 <!-- Inicio Terceira Sessão -->
 <section class="container-fluid terceiraClass">
     <div class="container">
-        <div class="row my-3">
-            <div class="col">
-                <p class="text-center">Você que é alvo de violência deve saber se defender, isto é empoderamento, é ser livre, <br> é não viver refém do medo.</p>
-                <h3 class="text-center">Vídeos com Aulas de Defesa Pessoal</h3>
+        <form>
+            <h1>Ajude-nos:</h1>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputNome">Nome</label>
+                    <input type="text" class="form-control" placeholder="Primeiro Nome" id="inputNome">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputSobrenome">Sobrenome</label>
+                    <input type="text" class="form-control" placeholder="Sobrenome" id="inputSobrenome">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4">E-mail</label>
+                    <input type="email" class="form-control" id="inputEmail4">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputPassword4">Senha</label>
+                    <input type="password" class="form-control" id="inputPassword4">
+                </div>
+            </div>
+            <div class="form-group">
+                    <label for="inputAddress">Endereço</label>
+                    <input type="text" class="form-control" id="inputAddress" placeholder="Ex: Rua Maria Joana 123, Bairro x....">
+            </div>
+            <div class="form-group">
+                <label for="inputAddress2">Complemento</label>
+                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartamento, Studio, ou Piso">
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputCity">Cidade de Residência</label>
+                    <input type="text" class="form-control" id="inputCity">
+            </div>
+            <div class="form-group col-md-4">
+                <label for="inputState">Estado de Nascimento</label>
+                <select id="inputState" class="form-control">
+                    <option selected>Escolha...</option>
+                    <option>São Paulo</option>
+                    <option>Rio de Janeiro</option>
+                    <option>Outros</option>
+                </select>
+            </div>
+            <div class="form-group col-md-2">
+                <label for="inputZip">CEP</label>
+                <input type="text" class="form-control" id="inputZip">
             </div>
         </div>
-        
-        <div class="row">
-            <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/HF8NxF1QYh0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/kxnjvWnpnxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/rSmerT0ZpFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <div class="col-md-3">
-                <iframe width="100%" height="160" src="https://www.youtube.com/embed/C14myVELhnE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="form-group">
+        <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="gridCheck">
+                <label class="form-check-label" for="gridCheck">
+                Verificar
+            </label>
             </div>
         </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
     </div>
 </section>
 <!-- Final Terceira Sessão -->
