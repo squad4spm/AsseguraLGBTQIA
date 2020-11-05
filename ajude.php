@@ -2,8 +2,8 @@
 <?php include('menu.php');?>
 
 <section id="pg_defesa_pessoal_banner" >
-    <div class="jumbotron card card-image  d-block">
-        <p class="mx-2 mb-4">Defesa Pessoal <br> LGBTQIA+</p>
+    <div class="jumbotron card card-image  d-block ajude">
+        <p class="mx-2 mb-4">Ajude Nossa <br> Causa!</p>
     </div>
 </section>
 
@@ -11,11 +11,10 @@
 <section id="pg_defesa_pessoal_primeiraClass" class="container">
     <div class="row">
         <div class="col-md-6">
-            <p>Muitas pessoas LGBTQIA+ no centro de São Paulo precisam de apoio, para se defender de violências sofridas. Mas muitas dessas pessoas não conseguem acessar esse tipo serviço. Seja por falta de grana, por falta de um serviço personalizado, falta de tempo ou até mesmo falta de acesso à informação.</p>
-            <h3><br>Por isso criamos o Assegura LGBTQIA+ </h3>
+            <p>Com o intuito de ajudar as pessoas da comunidade LGBTQIA+ em situação de vulnerabilidade social, criamos meios que você pode de forma totalmente voluntária ajudar nessa missão tão importante que é vivermos em um país inclusivo onde todas as pessoas podem expressar suas vontades normalmente sem serem ofendidas pela sua orientação sexual.</p>
         </div>
         <div class="col-md-6">
-            <img src="./images/Defesa.png" class="img-fluid"/>
+            <img src="../../assets/images/ajude02.jpg" class="img-fluid"/>
         </div>
     </div>
 </section>
@@ -24,17 +23,17 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 py-5">
-                <p>Por isso, vamos através de Informações e Parcerias com Professores e Escolas de Defesa Pessoal, conectar quem precisa de acesso a esse serviço com Profissionais e Ambientes seguro, livre de assédio, livre de discriminações, em que as pessoas possam desenvolver suas potencialidades em um clima de respeito, amizade e colaboração, buscando assegurar a comunidade LGBTQIA+.</p>
-                <p>Nosso diferencial, é que além de promover essa conexão, também vamos disponibilizar na nossa plataforma, vídeo com aulas básicas gratuitas </p>
+                <p>Pensando nisso, nasceu o ASSEGURA que tem como objetivo principal contribuir por meio da informação, a segurança preventiva contra a violência das pessoas que fazem parte da comunidade LGBTQIA+ em diversos âmbitos da sociedade, seja ela física ou psicológica.</p>
+                <p>Vamos nessa? Fique à vontade para contribuir da maneira que se sentir mais confortável e vamos juntos nessa corrente do bem. </p>
             </div>
         </div>
         <div>
             <div class="row py-4">
                 <div class="col">
-                    <img src="./images/Defesa_Pessoal.png" >
+                    <img src="../../assets/images/ajude04.jpg" >
                 </div>
                 <div class="col my-5">
-                    <p>Pesquisas mostram que uma pessoa treinada para responder adequadamente a um ataque, pode até mesmo impedir que a agressão comece, pois, reagem ao perigo de forma mais assertiva e confiante, aumentando as chances de evitar situações violentas ou enfrentá-las com segurança. </p>
+                    <p>Por que ajudar? O Brasil é o país que mais sofre com a violência contra a comunidade LGBTQIA+, para mudarmos esse triste cenário que tal unirmos forças para combater esse cenário? O ASSEGURA LGBTQIA+ conta com sua contribuição para cada vez mais vivermos em um país mais inclusivo e melhor para todos :D</p>
                 </div>
             </div>
         </div>
@@ -45,7 +44,7 @@
 <section class="container-fluid terceiraClass">
     <div class="container">
         <form>
-            <h1>Ajude-nos:</h1>
+            <h1>Seja um Voluntário:</h1>
             <div class="form-row">
                 <div class="form-group col-md-6">
                     <label for="inputNome">Nome</label>
@@ -112,37 +111,33 @@
     <div class="container">
         <div class="row my-3">
             <div class="col">
-                 <h3>Artigos sobre Defesa Pessoal</h3>
+                 <h3>Saiba Contribuir Para um Mundo Melhor :D</h3>
             </div>
         </div>
 
         <div class="row">
              <div class="col-md-3">
-                 <img src="./images/imagemartigotrans.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
-                 <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
-                 <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
-                 <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>
+                 <img src="../../assets/images/ajude05.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                 <h5 class="mt-0">Saiba como AJUDAR!</h5>
+                 <p>Contribua com nossa causa e ajude as pessoas que estão em situação de vulnerabilidade social da nossa comunidade. Confira ao lado como colaborar....</p>
              </div>
 
              <div class="col-md-3">
-                <img src="./images/imagemartigotrans.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
-                <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
-                <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
-                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>
+                <img src="../../assets/images/ajude06.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                <h5 class="mt-0">Doe Agasalhos</h5>
+                <p>Você pode contribuir da sua forma doando roupas em bom estado para ajudar as pessoas. Muitos saem de casa sem amparo e ficam numa situação difícil, nós do ASSEGURA ficamos felizes com a sua colaboração. A comunidade LGBTQIA+ agradece :D...</p>
              </div>
 
              <div class="col-md-3">
-                 <img src="./images/artigosemdiferenca.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
-                 <h5 class="mt-0">“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?</h5>
-                 <p>Uma das minhas partes favoritas do desafio de esgrima deste ano...</p>
-                 <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/sem-ver-diferen%C3%A7as-%C3%A9-poss%C3%ADvel-diversidade-e-inclus%C3%A3o-nos-treinos-de-artes-marciais-c60ab57db6d9" role="button">Leia Mais</a>
+                 <img src="../../assets/images/ajude07.jpg" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
+                 <h5 class="mt-0">Doe Alimentos Não Perecíveis</h5>
+                 <p>Todos os alimentos doados serão recebidos e utilizados pelas pessoas da comunidade LGBTQIA+. Não deixe de colaborar, vem com a gente nessa corrente do bem :D...</p>
              </div>
 
              <div class="col-md-3">
-                <img src="./images/artigosemdiferenca.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
-                <h5 class="mt-0">“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?</h5>
-                <p>Uma das minhas partes favoritas do desafio de esgrima deste ano...</p>
-                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/sem-ver-diferen%C3%A7as-%C3%A9-poss%C3%ADvel-diversidade-e-inclus%C3%A3o-nos-treinos-de-artes-marciais-c60ab57db6d9" role="button">Leia Mais</a>
+                <img src="../../assets/images/ajude08.jpg" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
+                <h5 class="mt-0">Doar Faz Bem</h5>
+                <p>Você também pode colaborar contribuindo com um valor de R$ 5,00 a R$100,00, todo valor arrecadado será utilizado para ajudar a comunidade LGBTQIA+ nas áreas de segurança, acolhimento junto as parcerias, informações preventivas contra a violência física, psicológica e muito mais :D...</p>
              </div>
         </div>
     </div>
