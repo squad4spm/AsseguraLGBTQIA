@@ -18,7 +18,7 @@
                 </ul>
                 
                 <ul class="menu-right float-right">
-                    <li><a href="#">Localização</a></li>   
+                    <li><a href="localizacao.php">Localização</a></li>   
                     <li class="branco"><a class="btn ajude" href="ajude.php">Ajude</a></li>
                 </ul>
             </nav>
