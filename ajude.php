@@ -140,10 +140,6 @@
                 <h6>Ag - 0000 <br>
                 Cc - 00000-0</h6> <br>
                 </h6>
-                <h6>Banco do Bradesco <br>
-                <h6>Ag - 0000 <br>
-                Cc - 00000-0</h6>
-                </h6>
              </div>
         </div>
     </div>

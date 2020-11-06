@@ -14,7 +14,7 @@
                 <li class="nav-item"><a class="nav-link" href="#">Atendimento Psicologico</a></li>   
                 <li class="nav-item"><a class="nav-link" href="#">Direitos Lgbtqia+</a></li>   
                 <li class="nav-item"><a class="nav-link" href="#">Casa de Acolhimento</a></li>   
-                <li class="nav-item"><a class="nav-link" href="localizacao.php">Localização</a></li>   
+                <li class="nav-item"><a class="nav-link" href="localizacao.php">Localizações</a></li>   
             </ul>
         </div>
         </nav>
