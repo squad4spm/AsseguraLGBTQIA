@@ -21,7 +21,7 @@
     </div>
 </section>
 
-<section id="pg_defesa_pessoal_segundaClass" class="container-fluid my-4 corAjude">
+<section id="pg_defesa_pessoal_segundaClass" class="container-fluid my-4">
     <div class="container">
         <div class="row">
             <div class="col-md-12 py-5">
