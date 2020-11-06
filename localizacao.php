@@ -1,5 +1,5 @@
 <?php include('header.php');?>
-<div style="width: 100%; height: 10px; background: #400040;"></div>
+<div style="width: 100%; height: 10px; background: #00ffff;"></div>
 
 <?php include('menu.php');?>
 

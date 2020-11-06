@@ -1,4 +1,5 @@
 <?php include('header.php');?>
+<div style="width: 100%; height: 10px; background: #7cfc00;"></div>
 <?php include('menu.php');?>
 <?php include('formulario.php') ?>
 
@@ -20,7 +21,7 @@
     </div>
 </section>
 
-<section id="pg_defesa_pessoal_segundaClass" class="container-fluid my-4">
+<section id="pg_defesa_pessoal_segundaClass" class="container-fluid my-4 corAjude">
     <div class="container">
         <div class="row">
             <div class="col-md-12 py-5">
@@ -150,5 +151,5 @@
     </div>
  </section>
 <!-- Final Quarta Sessão -->
-
+<?php include('conteudoFooter.php');?>
 <?php include('footer.php');?>
