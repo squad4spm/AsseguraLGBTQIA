@@ -11,7 +11,7 @@
 <section id="pg_defesa_pessoal_primeiraClass" class="container primeiraClass" >
     <div class="row">
     <div class="col-md-6">
-        <img src="../../assets/images/unnamed2.png" 
+        <img src="assets/images/unnamed2.png" 
         class="img-fluid"/>
             
         </div>
@@ -50,7 +50,7 @@ Caso o interessado na mudança não tenha condições de arcar com os custos do 
 </P>
                </div>
                   <div class="col-md-6">
-                    <img src="../../assets/images/imgser.jpg" class="img-fluid">
+                    <img src="assets/images/imgser.jpg" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -96,21 +96,21 @@ Caso o interessado na mudança não tenha condições de arcar com os custos do 
 
         <div class="row">
              <div class="col-md-4">
-                 <img src="../../assets/images/casa1.png" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                 <img src="assets/images/casa1.png" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
                  <h5 class="mt-0">Casa1 -Guia Para Retificação Do Regitro Civil De Pessoas Não Cis-Gêneras</h5>
                  <p>Guia da Casa um para retificação do registro civil de pessoas não cisgêneras.</p>
                  <a class="btn btn-primary" target="_blank" href="https://www.casaum.org/como-fazer-retificacao-de-nome-e-genero/" role="button">Leia Mais</a>
              </div>
 
              <div class="col-md-4">
-                <img src="../../assets/images/artigo2.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                <img src="assets/images/artigo2.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
                 <h5 class="mt-0">Defensoria Pública de São Paulo </h5>
                 <p>Guia para retificação do registro civil de pessoas não-cisgêneras</p>
                 <a class="btn btn-primary" target="_blank" href="https://www.defensoria.sp.def.br/dpesp/Default.aspx?idPagina=6771" role="button">Leia Mais</a>
              </div>
 
              <div class="col-md-4">
-                 <img src="../../assets/images/translives5.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
+                 <img src="assets/images/translives5.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
                  <h5 class="mt-0">“O DIREITO À RETIFICAÇÃO DE NOME E GÊNERO PARA PESSOAS TRANS</h5>
                  <p>Um informativo prático com indicações do passo a passo para a retificação da certidão de nascimento</p>
                  <a class="btn btn-primary" target="_blank" href="https://www.mattosfilho.com.br/Documents/190614_cartilha_mobile.pdf" role="button">Leia Mais</a>

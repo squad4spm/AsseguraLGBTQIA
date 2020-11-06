@@ -14,7 +14,7 @@
             <p>Com o intuito de ajudar as pessoas da comunidade LGBTQIA+ em situação de vulnerabilidade social, criamos meios que você pode de forma totalmente voluntária ajudar nessa missão tão importante que é vivermos em um país inclusivo onde todas as pessoas podem expressar suas vontades normalmente sem serem ofendidas pela sua orientação sexual.</p>
         </div>
         <div class="col-md-6">
-            <img src="../../assets/images/ajude02.jpg" class="img-fluid"/>
+            <img src="assets/images/ajude02.jpg" class="img-fluid"/>
         </div>
     </div>
 </section>
@@ -30,7 +30,7 @@
         <div>
             <div class="row py-4">
                 <div class="col">
-                    <img src="../../assets/images/ajude04.jpg" >
+                    <img src="assets/images/ajude04.jpg" >
                 </div>
                 <div class="col my-5">
                     <p>Por que ajudar? O Brasil é o país que mais sofre com a violência contra a comunidade LGBTQIA+, para mudarmos esse triste cenário que tal unirmos forças para combater esse cenário? O ASSEGURA LGBTQIA+ conta com sua contribuição para cada vez mais vivermos em um país mais inclusivo e melhor para todos :D</p>
@@ -117,25 +117,25 @@
 
         <div class="row">
              <div class="col-md-3">
-                 <img src="../../assets/images/ajude05.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                 <img src="assets/images/ajude05.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
                  <h5 class="mt-0">Saiba como AJUDAR!</h5>
                  <p>Contribua com nossa causa e ajude as pessoas que estão em situação de vulnerabilidade social da nossa comunidade. Confira ao lado como colaborar....</p>
              </div>
 
              <div class="col-md-3">
-                <img src="../../assets/images/ajude06.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                <img src="assets/images/ajude06.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
                 <h5 class="mt-0">Doe Agasalhos</h5>
                 <p>Você pode contribuir da sua forma doando roupas em bom estado para ajudar as pessoas. Muitos saem de casa sem amparo e ficam numa situação difícil, nós do ASSEGURA ficamos felizes com a sua colaboração. A comunidade LGBTQIA+ agradece :D...</p>
              </div>
 
              <div class="col-md-3">
-                 <img src="../../assets/images/ajude07.jpg" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
+                 <img src="assets/images/ajude07.jpg" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
                  <h5 class="mt-0">Doe Alimentos Não Perecíveis</h5>
                  <p>Todos os alimentos doados serão recebidos e utilizados pelas pessoas da comunidade LGBTQIA+. Não deixe de colaborar, vem com a gente nessa corrente do bem :D...</p>
              </div>
 
              <div class="col-md-3">
-                <img src="../../assets/images/ajude08.jpg" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
+                <img src="assets/images/ajude08.jpg" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
                 <h5 class="mt-0">Doar Faz Bem</h5>
                 <p>Você também pode colaborar contribuindo com um valor de R$ 5,00 a R$100,00, todo valor arrecadado será utilizado para ajudar a comunidade LGBTQIA+ nas áreas de segurança, acolhimento junto as parcerias, informações preventivas contra a violência física, psicológica e muito mais :D...</p>
              </div>
