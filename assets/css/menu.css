@@ -1,108 +1,133 @@
 header#menu_oficial {
-  width: 100%;
-  height: 200px;
-  background-color: #fff;
-  box-shadow: 0px -2px 10px #000;
 }
 
-header#menu_oficial .header-roxo {
-  background-color: #5e299a;
-  height: 15px;
-}
-
-header#menu_oficial .header-roxo li {
-  display: inline-block;
-  margin: 4px;
-  color: #fff;
-}
-
-header#menu_oficial #menu {
-  display: inline-block;
-  margin-top: 40px;
-  margin-left: 130px;
-}
-
-header#menu_oficial #menu li {
-  display: inline-block;
-  font-family: "Arial";
-  text-transform: uppercase;
+header#menu_oficial ul {
   text-align: center;
-  width: 120px;
-  margin-left: 20px;
+}
+
+header#menu_oficial ul li {
+}
+
+header#menu_oficial ul li a {
+  color: #400040;
+  font-weight: 600;
   font-size: 14px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
-header#menu_oficial #menu li a {
-  color: #5e299a;
-  text-decoration: none;
-  padding: 10px 2px;
-  font-weight: bold;
-}
-
-header#menu_oficial #menu li a:hover,
-header#menu_oficial .menu-right li a:hover {
-  text-decoration: underline;
-}
-
-header#menu_oficial #logotipo {
-  position: absolute;
-  top: 20px;
-  z-index: 4;
-}
-
-header#menu_oficial .menu-right .btn {
-  min-width: 100px;
-  height: 44px;
-  border-radius: 0;
-}
-
-header#menu_oficial .menu-right .ajude {
-  background-color: #5e299a;
-  border-color: #5e299a;
-  color: #fff !important;
-}
-
-header#menu_oficial .menu-right li {
-  width: 100%;
-  display: inline-block;
-  font-family: "Arial";
+#botao_flutuante {
+  background-color: #400040;
+  color: #fff;
+  width: 140px;
+  height: 140px;
+  display: flex;
+  position: fixed;
+  bottom: 20%;
+  right: 10%;
+  z-index: 1;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
   text-transform: uppercase;
-  position: relative;
-  top: -55px;
-  margin-left: 20px;
-}
-
-header#menu_oficial .menu-right li a {
-  color: #5e299a;
+  font-size: 20px;
+  transition: 0.3s;
   text-decoration: none;
-  margin-left: 370px;
-  font-weight: bold;
+  flex-direction: column;
 }
 
-header#menu_oficial #banner {
-  width: 100%;
-  height: 728px;
-  position: relative;
-  background: url("../images/faixa-lgbt.jpg") no-repeat center center;
-  z-index: -3;
-  top: -150px;
+#botao_flutuante:hover {
+  background-color: #ffd5ff;
+  color: #400040;
+  width: 140px;
+  height: 140px;
+  display: flex;
+  position: fixed;
+  bottom: 20%;
+  right: 10%;
+  z-index: 1;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 30px;
+  transition: 0.3s;
+  text-decoration: none;
+  font-weight: 600;
 }
 
-header#menu_oficial #banner h1 {
-  color: #fff;
-  top: 200px;
-  font-size: 80px;
-  position: relative;
-  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.45);
-  font-family: "OpenSans-Light";
-  margin-left: 450px;
-}
+@media (max-width: 992px) {
+  header#menu_oficial button.navbar-toggler {
+    background-color: #400040;
+    border: 1px solid #777;
+    color: #fff;
+    padding: 18px;
+  }
 
-header#menu_oficial #banner h1 small {
-  font-size: 32px;
-  display: block;
-  color: #fff;
-  font-family: "OpenSans";
-  font-weight: bold;
-  margin-left: 310px;
+  header#menu_oficial ul {
+    text-align: center;
+    border-top: 2px solid #400040;
+  }
+
+  header#menu_oficial ul li {
+  }
+
+  header#menu_oficial ul li a {
+    color: #400040;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #400040;
+  }
+
+  header#menu_oficial img#logotipo {
+    width: 90px;
+  }
+
+  #botao_flutuante i {
+    display: none;
+  }
+
+  #botao_flutuante {
+    background-color: #400040;
+    color: #fff;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    position: fixed;
+    bottom: 5%;
+    right: 10%;
+    z-index: 1;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: 0.3s;
+    text-decoration: none;
+    flex-direction: column;
+  }
+
+  #botao_flutuante:hover {
+    background-color: #400040;
+    color: #fff;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    position: fixed;
+    bottom: 5%;
+    right: 10%;
+    z-index: 1;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: 0.3s;
+    text-decoration: none;
+    flex-direction: column;
+  }
 }
