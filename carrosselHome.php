@@ -12,7 +12,7 @@
         <div class="carousel-inner">
                 <div class="carousel-item active">
                     <a href="defesaPessoal.php">
-                        <div class="descricaoCardA">
+                        <div class="descricaoCardLogo">
                             <img src="assets/images/logoAssegura-250px.png" alt="">
                         </div>
                     </a>
