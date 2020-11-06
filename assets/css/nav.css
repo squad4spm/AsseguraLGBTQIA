@@ -155,7 +155,7 @@ div#antes_do_esquema_da_home {
   transition-delay: 0.02s;
   transform: rotate(623.6deg);
   background-color: #fffafa;
-  border: 5px solid #9400d3;
+  border: 3px solid #9400d3;
 }
 
 #esquema_da_home .descricaoA {
@@ -167,13 +167,13 @@ div#antes_do_esquema_da_home {
   width: 400px;
   height: 530px;
   background-color: #fffafa;
-  border: 8px solid #9400d3;
+  border: 4px solid #9400d3;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
   transform: rotate(623.6deg);
   position: fixed;
-  right: -205px;
+  right: -175px;
   bottom: 40px;
 }
 /*Fim do item defesa pessoal*/
@@ -188,7 +188,7 @@ div#antes_do_esquema_da_home {
   transition-delay: 0.02s;
   transform: rotate(572.2deg);
   background-color: #fffafa;
-  border: 5px solid #a0522d;
+  border: 3px solid #a0522d;
 }
 
 #esquema_da_home .descricaoJ {
@@ -201,7 +201,7 @@ div#antes_do_esquema_da_home {
   width: 400px;
   height: 530px;
   background-color: #fffafa;
-  border: 8px solid #a0522d;
+  border: 4px solid #a0522d;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
@@ -222,7 +222,7 @@ div#antes_do_esquema_da_home {
   transition-delay: 0.02s;
   transform: rotate(520.8deg);
   background-color: #fffafa;
-  border: 5px solid #00ffff;
+  border: 3px solid #00ffff;
 }
 
 #esquema_da_home .descricaoD {
@@ -234,13 +234,13 @@ div#antes_do_esquema_da_home {
   width: 400px;
   height: 530px;
   background-color: #fffafa;
-  border: 8px solid #00ffff;
+  border: 4px solid #00ffff;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
   transform: rotate(520.8deg);
   position: fixed;
-  right: 105px;
+  right: 85px;
   bottom: -590px;
 }
 /*Fim do item localizaçõoes*/
@@ -255,7 +255,7 @@ div#antes_do_esquema_da_home {
   transition-delay: 0.02s;
   transform: rotate(469.4deg);
   background-color: #fffafa;
-  border: 5px solid #7cfc00;
+  border: 3px solid #7cfc00;
 }
 
 #esquema_da_home .descricaoE {
@@ -267,7 +267,7 @@ div#antes_do_esquema_da_home {
   width: 400px;
   height: 530px;
   background-color: #fffafa;
-  border: 8px solid #7cfc00;
+  border: 4px solid #7cfc00;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
@@ -288,7 +288,7 @@ div#antes_do_esquema_da_home {
   transition-delay: 0.02s;
   transform: rotate(418deg);
   background-color: #fffafa;
-  border: 5px solid #0000ff;
+  border: 3px solid #0000ff;
 }
 
 #esquema_da_home .descricaoF {
@@ -300,13 +300,13 @@ div#antes_do_esquema_da_home {
   width: 400px;
   height: 530px;
   background-color: #fffafa;
-  border: 8px solid #0000ff;
+  border: 4px solid #0000ff;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
   transform: rotate(418deg);
   position: fixed;
-  left: -315px;
+  left: -295px;
   bottom: 20px;
 }
 /*fim do item casas de acolhimento*/
@@ -321,7 +321,7 @@ div#antes_do_esquema_da_home {
   transition-delay: 0.02s;
   transform: rotate(366.6deg);
   background-color: #fffafa;
-  border: 5px solid #ff0000;
+  border: 3px solid #ff0000;
 }
 
 #esquema_da_home .descricaoG {
@@ -333,14 +333,14 @@ div#antes_do_esquema_da_home {
   width: 400px;
   height: 530px;
   background-color: #fffafa;
-  border: 8px solid #ff0000;
+  border: 4px solid #ff0000;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
   transform: rotate(366.6deg);
   position: fixed;
-  left: -580px;
-  bottom: -310px;
+  left: -515px;
+  bottom: -260px;
 }
 /*Fim do item juridico*/
 
@@ -354,7 +354,7 @@ div#antes_do_esquema_da_home {
   transition-delay: 0.02s;
   transform: rotate(315.2deg);
   background-color: #fffafa;
-  border: 5px solid #ffff00;
+  border: 3px solid #ffff00;
 }
 
 #esquema_da_home .descricaoH {
@@ -366,14 +366,14 @@ div#antes_do_esquema_da_home {
   width: 400px;
   height: 530px;
   background-color: #fffafa;
-  border: 8px solid #ffff00;
+  border: 4px solid #ffff00;
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
   transform: rotate(315.2deg);
   position: fixed;
-  right: -580px;
-  bottom: -55px;
+  right: -540px;
+  bottom: -05px;
 }
 /*Fim do item psicológico*/
 
@@ -382,7 +382,7 @@ div#antes_do_esquema_da_home {
   width: 300px;
   height: 400px;
   background-color: #fffafa;
-  border: 8px solid #9400d3;
+  border: 4px solid #9400d3;
   margin: 0;
   padding: 0;
   opacity: 0.85;
@@ -398,7 +398,7 @@ div#antes_do_esquema_da_home {
   width: 300px;
   height: 400px;
   background-color: #fffafa;
-  border: 8px solid #a0522d;
+  border: 4px solid #a0522d;
   margin: 0;
   padding: 0;
   opacity: 0.85;
@@ -414,7 +414,7 @@ div#antes_do_esquema_da_home {
   width: 300px;
   height: 400px;
   background-color: #fffafa;
-  border: 8px solid #00ffff;
+  border: 4px solid #00ffff;
   margin: 0;
   padding: 0;
   opacity: 0.85;
@@ -430,7 +430,7 @@ div#antes_do_esquema_da_home {
   width: 300px;
   height: 400px;
   background-color: #fffafa;
-  border: 8px solid #7cfc00;
+  border: 4px solid #7cfc00;
   margin: 0;
   padding: 0;
   opacity: 0.85;
@@ -446,7 +446,7 @@ div#antes_do_esquema_da_home {
   width: 300px;
   height: 400px;
   background-color: #fffafa;
-  border: 8px solid #0000ff;
+  border: 4px solid #0000ff;
   margin: 0;
   padding: 0;
   opacity: 0.85;
@@ -478,7 +478,23 @@ div#antes_do_esquema_da_home {
   width: 300px;
   height: 400px;
   background-color: #fffafa;
-  border: 8px solid #ffff00;
+  border: 4px solid #ffff00;
+  margin: 0;
+  padding: 0;
+  opacity: 0.85;
+  border-radius: 15px;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
+}
+
+#esquema_da_home .descricaoCardLogo {
+  display: block;
+  width: 300px;
+  height: 400px;
+  background-color: #fffafa;
+  border: 4px solid #fffafa;
   margin: 0;
   padding: 0;
   opacity: 0.85;
