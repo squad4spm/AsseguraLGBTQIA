@@ -64,8 +64,12 @@
             <li class="item">
                 <img src="./images/law.png" alt="">
                 <div class="descricaoG">
-                    <h2>J</h2>
-                    <p class="textoCards"></p>
+                    <h2>Direitos Lgbtqia+</h2>
+                    <p class="textoCards">
+                        Direito Civil Brasileiro
+                        <br>
+                        Evolução dos Direitos LGBTQI+
+                    </p>
                 </div>
             </li>
             <li class="item">
