@@ -116,5 +116,5 @@
     </div>
  </section>
 <!-- Final Quarta Sessão -->
-
+<?php include('conteudoFooter.php');?>
 <?php include('footer.php');?>
