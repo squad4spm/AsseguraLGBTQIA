@@ -58,7 +58,7 @@ header#menu_oficial ul li a {
   font-weight: 600;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 768px) {
   header#menu_oficial button.navbar-toggler {
     background-color: #400040;
     border: 1px solid #777;
