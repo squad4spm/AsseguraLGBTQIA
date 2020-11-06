@@ -388,6 +388,9 @@ div#antes_do_esquema_da_home {
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
 }
 
 #esquema_da_home .descricaoCardJ {
@@ -401,6 +404,9 @@ div#antes_do_esquema_da_home {
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
 }
 
 #esquema_da_home .descricaoCardD {
@@ -414,6 +420,9 @@ div#antes_do_esquema_da_home {
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
 }
 
 #esquema_da_home .descricaoCardE {
@@ -427,6 +436,9 @@ div#antes_do_esquema_da_home {
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
 }
 
 #esquema_da_home .descricaoCardF {
@@ -440,6 +452,9 @@ div#antes_do_esquema_da_home {
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
 }
 
 #esquema_da_home .descricaoCardG {
@@ -453,6 +468,9 @@ div#antes_do_esquema_da_home {
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
 }
 
 #esquema_da_home .descricaoCardH {
@@ -466,4 +484,12 @@ div#antes_do_esquema_da_home {
   opacity: 0.85;
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+  font-style: none;
+  color: black;
+  text-align: center;
+}
+
+.textoCards {
+  font-size: 16px;
+  line-height: 20px;
 }
