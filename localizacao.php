@@ -5,7 +5,7 @@
 
 <section id="pg_localizacao">
 <div class="center">
-    <div class="comtainer">
+    <div class="container">
         <div class="row my-5">
             <div class="col-md-4">
                 <p><img src="./images/markerDefesa.png" alt="" width="50px">Defesa pessoal</p>

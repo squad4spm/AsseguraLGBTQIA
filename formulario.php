@@ -1,8 +1,8 @@
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $database = "asseguralgbtqi";
+    $servername = "mysql741.umbler.com:41890";
+    $username = "recode_site";
+    $password = "reCode323##";
+    $database = "recode_site";
 
     $conn = mysqli_connect($servername, $username, $password, $database);
 
