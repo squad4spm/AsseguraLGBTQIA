@@ -111,7 +111,7 @@
     <div class="container">
         <div class="row my-3">
             <div class="col">
-                 <h3>Saiba Contribuir Para um Mundo Melhor :D</h3>
+                 <h3>Veja abaixo mais informações de como você pode ajudar a comuidade LGBTQIA+</h3>
             </div>
         </div>
 
@@ -137,7 +137,18 @@
              <div class="col-md-3">
                 <img src="assets/images/ajude08.jpg" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
                 <h5 class="mt-0">Doar Faz Bem</h5>
-                <p>Você também pode colaborar contribuindo com um valor de R$ 5,00 a R$100,00, todo valor arrecadado será utilizado para ajudar a comunidade LGBTQIA+ nas áreas de segurança, acolhimento junto as parcerias, informações preventivas contra a violência física, psicológica e muito mais :D...</p>
+                <h6>Banco Santander <br>
+                <h6>Ag - 0000 <br>
+                Cc - 00000-0</h6> <br>
+                </h6>
+                <h6>Banco Itaú <br>
+                <h6>Ag - 0000 <br>
+                Cc - 00000-0</h6> <br>
+                </h6>
+                <h6>Banco do Bradesco <br>
+                <h6>Ag - 0000 <br>
+                Cc - 00000-0</h6>
+                </h6>
              </div>
         </div>
     </div>
