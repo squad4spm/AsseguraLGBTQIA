@@ -1,5 +1,6 @@
 <?php include('header.php');?>
 <?php include('menu.php');?>
+<?php include('formulario.php') ?>
 
 <section id="pg_defesa_pessoal_banner" >
     <div class="jumbotron card card-image  d-block ajude">
@@ -43,53 +44,48 @@
 <!-- Inicio Terceira Sessão -->
 <section class="container-fluid terceiraClass">
     <div class="container">
-        <form>
+        <form method="post" action="">
             <h1>Seja um Voluntário:</h1>
             <div class="form-row">
                 <div class="form-group col-md-6">
-                    <label for="inputNome">Nome</label>
-                    <input type="text" class="form-control" placeholder="Primeiro Nome" id="inputNome">
+                    <label for="nome">Nome</label>
+                    <input name="nome" type="text" class="form-control" placeholder="Primeiro Nome" id="nome">
                 </div>
                 <div class="form-group col-md-6">
-                    <label for="inputSobrenome">Sobrenome</label>
-                    <input type="text" class="form-control" placeholder="Sobrenome" id="inputSobrenome">
+                    <label for="sobreNome">Sobrenome</label>
+                    <input name="sobreNome" type="text" class="form-control" placeholder="Sobrenome" id="sobreNome">
                 </div>
             </div>
             <div class="form-row">
                 <div class="form-group col-md-6">
-                    <label for="inputEmail4">E-mail</label>
-                    <input type="email" class="form-control" id="inputEmail4">
+                    <label for="email">E-mail</label>
+                    <input name="email" type="text" class="form-control" id="email">
                 </div>
                 <div class="form-group col-md-6">
-                    <label for="inputPassword4">Senha</label>
-                    <input type="password" class="form-control" id="inputPassword4">
+                    <label for="senha">Senha</label>
+                    <input name="senha" type="text" class="form-control" id="senha">
                 </div>
             </div>
             <div class="form-group">
-                    <label for="inputAddress">Endereço</label>
-                    <input type="text" class="form-control" id="inputAddress" placeholder="Ex: Rua Maria Joana 123, Bairro x....">
+                    <label for="endereco">Endereço</label>
+                    <input name="endereco" type="text" class="form-control" id="endereco" placeholder="Ex: Rua Maria Joana 123, Bairro x....">
             </div>
             <div class="form-group">
-                <label for="inputAddress2">Complemento</label>
-                <input type="text" class="form-control" id="inputAddress2" placeholder="Apartamento, Studio, ou Piso">
+                <label for="complemeto">Complemento</label>
+                <input name="complemento" type="text" class="form-control" id="complemento" placeholder="Apartamento, Studio, ou Piso">
             </div>
             <div class="form-row">
                 <div class="form-group col-md-6">
-                    <label for="inputCity">Cidade de Residência</label>
-                    <input type="text" class="form-control" id="inputCity">
+                    <label for="cidade">Cidade de Residência</label>
+                    <input name="cidade" type="text" class="form-control" id="cidade">
             </div>
             <div class="form-group col-md-4">
-                <label for="inputState">Estado de Nascimento</label>
-                <select id="inputState" class="form-control">
-                    <option selected>Escolha...</option>
-                    <option>São Paulo</option>
-                    <option>Rio de Janeiro</option>
-                    <option>Outros</option>
-                </select>
+                <label for="estado">Estado de Nascimento</label>
+                <input name="estado" type="text" class="form-control" id="estado">
             </div>
             <div class="form-group col-md-2">
-                <label for="inputZip">CEP</label>
-                <input type="text" class="form-control" id="inputZip">
+                <label for="cep">CEP</label>
+                <input name="cep" type="number" class="form-control" id="cep">
             </div>
         </div>
         <div class="form-group">
