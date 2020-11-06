@@ -28,32 +28,27 @@
     </div>
 </section>
 
-<section id="pg_defesa_pessoal_segundaClass ImagemNomesocial" class="container-fluid segundaClass">
-    <div class="container">
-        <div class="row">
+<section id="pg_defesa_pessoal_segundaClass" class="container-fluid segundaClass" >
+<div class="container imagemNomeSocial">
+    <div class="row">
+    <div class="col-md-6 my-4 mb-4">
+    <p> <b> Agora vamos tirar algumas duvidas</b> </p>
+                        <p><b>O que pode ser alterado?</b>
+    
+                    Conforme a regulamentação, podem ser alterados o prenome, agnomes indicativos de gênero (filho, júnior, neto e etc.) e o gênero em certidões de nascimento e de casamento (com a autorização do cônjuge). </p>
+                    <p><b>Preciso fazer a alteração no cartório em que fui registrado?</b>
+    
+                    Não. O pedido pode ser realizado em qualquer cartório de Registro Civil de Pessoas Naturais em todo território nacional. O cartório que fizer a alteração deverá encaminhar via sistema eletrônico o procedimento ao cartório que registrou o nascimento da pessoa.
+                    </p>
+                    <p> <b> É possível solicitar a gratuidade do procedimento?</b>
+                    Caso o interessado na mudança não tenha condições de arcar com os custos do procedimento, ele pode solicitar a gratuidade no cartório . Para isso, basta apresentar a declaração de hipossuficiência – documento necessário para obter assistência judiciária gratuita. Caso deseje, o cidadão que deseja realizar as mudanças pode contatar a Defensoria Pública de seu estado para conseguir a gratuidade.
+                    </P>
             
         </div>
-        <div class="segundaClass fonteDois">
-            <div class="row my-5 mb-5">
-              
-                <div class="col-md-6">
-                <p> <b> Agora vamos tirar algumas duvidas</b> </p>
-                    <p><b>O que pode ser alterado?</b>
- 
- Conforme a regulamentação, podem ser alterados o prenome, agnomes indicativos de gênero (filho, júnior, neto e etc.) e o gênero em certidões de nascimento e de casamento (com a autorização do cônjuge). </p>
-                <p><b>Preciso fazer a alteração no cartório em que fui registrado?</b>
- 
- Não. O pedido pode ser realizado em qualquer cartório de Registro Civil de Pessoas Naturais em todo território nacional. O cartório que fizer a alteração deverá encaminhar via sistema eletrônico o procedimento ao cartório que registrou o nascimento da pessoa.
-  </p>
-  <p> <b> É possível solicitar a gratuidade do procedimento?</b>
-Caso o interessado na mudança não tenha condições de arcar com os custos do procedimento, ele pode solicitar a gratuidade no cartório . Para isso, basta apresentar a declaração de hipossuficiência – documento necessário para obter assistência judiciária gratuita. Caso deseje, o cidadão que deseja realizar as mudanças pode contatar a Defensoria Pública de seu estado para conseguir a gratuidade.
-</P>
-               </div>
-                  <div class="col-md-6">
-                    <img src="assets/images/imgser.jpg" class="img-fluid">
-                </div>
-            </div>
+        <div class="col-md-6 my-5 mb-0">
+        <img src="assets/images/imgser.jpg"  class="img-fluid">
         </div>
+</div>
     </div>
 </section>
 

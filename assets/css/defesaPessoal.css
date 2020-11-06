@@ -74,8 +74,11 @@
   flex-wrap: wrap;
   box-sizing: border-box;
 }
-#ImagemNomesocial div img {
-  height: 180px;
+.imagemNomeSocial div img {
+  height: 600px !important;
+  align-items: center;
+  width: 600px;
+  position: relative;
  
 }
 
