@@ -14,7 +14,7 @@
                 <br>
                 <p><img src="./images/markerCasaAcolhimento.png" alt="" width="50px">Casa de acolhimento</p>
                 <br>
-                <p><img src="./images/markerJuridico.png" alt="" width="50px">Juridico</p>
+                <p><img src="./images/markerJuridico.png" alt="" width="50px">Direitos Lgbtqia+</p>
                 <br>
                 <p><img src="./images/markerP.png" alt="" width="50px">Psicológico</p>
             </div>
