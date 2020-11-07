@@ -31,8 +31,8 @@
         </div>
         <div>
             <div class="row py-4">
-                <div class="col">
-                    <img src="assets/images/ajude04.jpg" >
+                <div class="col-md-6">
+                    <img src="assets/images/ajude04.jpg" class="img-fluid">
                 </div>
                 <div class="col my-5">
                     <p>Por que ajudar? O Brasil é o país que mais sofre com a violência contra a comunidade LGBTQIA+, para mudarmos esse triste cenário que tal unirmos forças para combatermos essa realidade? O ASSEGURA LGBTQIA+ conta com sua contribuição para cada vez mais vivermos em um país mais inclusivo e melhor para todos :D</p>

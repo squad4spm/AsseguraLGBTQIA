@@ -31,8 +31,8 @@
         </div>
         <div>
             <div class="row py-4">
-                <div class="col">
-                    <img src="./images/Defesa_Pessoal.png" >
+                <div class="col-md-6">
+                    <img src="./images/Defesa_Pessoal.png" class="img-fluid">
                 </div>
                 <div class="col my-5">
                     <p>Pesquisas mostram que pessoas treinadas para responder adequadamente a um ataque, podem até mesmo impedir que agressões aconteçam, pois, reagem ao perigo de forma mais assertiva e confiante, aumentando as chances de evitar situações violentas ou enfrentá-las com segurança. </p>
@@ -88,10 +88,10 @@
              </div>
 
              <div class="col-md-3">
-                <img src="./images/imagemartigotrans.jpg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
-                <h5 class="mt-0">Conheça a primeira Trans faixa-preta de Jiu-Jitsu</h5>
-                <p>O jiu-jitsu brasileiro é muito peculiar como hobby. Isso meio que mergulha o praticante profundamente em um estilo de vida especial...</p>
-                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/conhe%C3%A7a-a-primeira-trans-faixa-preta-de-jiu-jitsu-3b591fdda7c6" role="button">Leia Mais</a>
+                <img src="./assets/images/defesa5.jpeg" class="mr-3 img-fluid" alt="Conheça a primeira Trans faixa-preta de Jiu-Jitsu">
+                <h5 class="mt-0">“Qualquer um pode ser uma ameaça”: no Brasil de Bolsonaro, LGBTs tomam a defesa pessoal com suas próprias mãos</h5>
+                <p>Em um país com uma das maiores taxas de violência do mundo contra gays e transgêneros, onde as redes sociais...</p>
+                <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/qualquer-um-pode-ser-uma-amea%C3%A7a-no-brasil-de-bolsonaro-lgbts-tomam-a-defesa-pessoal-com-suas-a9b62555aa0e" role="button">Leia Mais</a>
              </div>
 
              <div class="col-md-3">
@@ -102,9 +102,9 @@
              </div>
 
              <div class="col-md-3">
-                <img src="./images/artigosemdiferenca.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
-                <h5 class="mt-0">“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?</h5>
-                <p>Uma das minhas partes favoritas do desafio de esgrima deste ano...</p>
+                <img src="./assets/images/defesa4.png" class="mr-3 img-fluid" alt="“Sem ver diferenças”: É possível diversidade e inclusão nos treinos de artes marciais?">
+                <h5 class="mt-0">Turmas de Defesa-Pessoal para LGBTs focam no empoderamento</h5>
+                <p>No 50º aniversário do levante de Stonewall, que deu início ao movimento pela igualdade LGBT, os instrutores locais...</p>
                 <a class="btn btn-primary" target="_blank" href="https://medium.com/@piranhasteamfc/sem-ver-diferen%C3%A7as-%C3%A9-poss%C3%ADvel-diversidade-e-inclus%C3%A3o-nos-treinos-de-artes-marciais-c60ab57db6d9" role="button">Leia Mais</a>
              </div>
         </div>
