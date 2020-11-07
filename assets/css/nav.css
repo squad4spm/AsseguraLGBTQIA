@@ -14,7 +14,7 @@
 div#antes_do_esquema_da_home {
   background-image: url("../images/bcg.jpg");
   width: 100%;
-  height: 100%;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
