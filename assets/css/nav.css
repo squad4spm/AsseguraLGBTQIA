@@ -437,7 +437,7 @@ div#antes_do_esquema_da_home {
   border-radius: 15px;
   box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
   font-style: none;
-  color: black;
+  color: black !important;
   text-align: center;
 }
 

@@ -26,7 +26,7 @@
         <div class="row">
             <div class="col-md-12 py-5">
                 <p>Por isso, vamos através de Informações e Parcerias com Professores e Escolas de Defesa Pessoal, conectar quem precisa de acesso a esse serviço com Profissionais e Ambientes seguro, livre de assédio, livre de discriminações, em que as pessoas possam desenvolver suas potencialidades em um clima de respeito, amizade e colaboração, buscando assegurar a comunidade LGBTQIA+.</p>
-                <p>Nosso diferencial, é que além de promover essa conexão, também vamos disponibilizar na nossa plataforma, vídeo com aulas básicas gratuitas </p>
+                <p>Nosso diferencial, é que além de promover essa conexão, também vamos disponibilizar na nossa plataforma, vídeos com aulas básicas gratuitas. </p>
             </div>
         </div>
         <div>
@@ -35,7 +35,7 @@
                     <img src="./images/Defesa_Pessoal.png" >
                 </div>
                 <div class="col my-5">
-                    <p>Pesquisas mostram que uma pessoa treinada para responder adequadamente a um ataque, pode até mesmo impedir que a agressão comece, pois, reagem ao perigo de forma mais assertiva e confiante, aumentando as chances de evitar situações violentas ou enfrentá-las com segurança. </p>
+                    <p>Pesquisas mostram que pessoas treinadas para responder adequadamente a um ataque, podem até mesmo impedir que agressões aconteçam, pois, reagem ao perigo de forma mais assertiva e confiante, aumentando as chances de evitar situações violentas ou enfrentá-las com segurança. </p>
                 </div>
             </div>
         </div>

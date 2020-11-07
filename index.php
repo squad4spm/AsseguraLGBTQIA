@@ -44,7 +44,7 @@
             <li class="item">
                 <a href="ajude.php"><img src="./images/shake.png" alt="icon"></a>
                 <div class="descricaoE">
-                    <h2>Ajude/h2>
+                    <h2>Ajude</h2>
                     <p class="textoCards">
                         Nós do ASSEGURA LGBTQIA+ acreditamos que sua ajuda é muito importante e significativa para todos. 
                         Clique no botão saiba mais e conheça as formas que você pode contribuir e fazer parte de um mundo 

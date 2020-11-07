@@ -63,7 +63,7 @@
                 
                 <div class="carousel-item">
                     <div class="descricaoCardE">
-                        <h2>Quer ajudar?</h2>
+                        <h2>Ajudar</h2>
                         <a href="ajude.php">
                             <p class="textoCards">
                                 Nós do ASSEGURA LGBTQIA+ acreditamos que sua ajuda é muito importante e significativa para todos. 
@@ -83,7 +83,12 @@
                 </div>
                 <div class="carousel-item">
                     <div class="descricaoCardG">
-                        <h2>Jurídico</h2>
+                        <h2>Direitos Lgbtqia+</h2>
+                        <p class="textoCards">
+                        Direito Civil Brasileiro
+                        <br>
+                        Evolução dos Direitos LGBTQI+
+                        </p>
                     </div>
                 </div>
                 <div class="carousel-item">
